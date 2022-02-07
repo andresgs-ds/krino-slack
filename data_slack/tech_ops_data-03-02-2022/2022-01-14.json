@@ -1,0 +1,586 @@
+[
+    {
+        "client_msg_id": "79965c14-318a-43f0-8db5-b71707d63a47",
+        "type": "message",
+        "text": "Owner: <@U02KN0DBT9N>",
+        "user": "U02217J5895",
+        "ts": "1642168403.019900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02KN0DBT9N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082687.007800",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "29d3b5d4-2bb3-4558-92e2-b5b5ea076036",
+        "type": "message",
+        "text": "Owner: <@U02AJP0M7L1>",
+        "user": "U02AJP0M7L1",
+        "ts": "1642170807.021300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AJP0M7L1",
+            "ts": "1642428707.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5sTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AJP0M7L1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642089212.013900",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "85bc5361-aa7a-45c7-931c-b185d28298e2",
+        "type": "message",
+        "text": "*Resumen Simbología:*\n\n_*UPDATE:*_ \n _DEFINICIONES_:\n  _REQUERIMIENTOS TECH_: Son aquellas tareas que solo pueden ser resueltas con programación (Cron, Bugs en plataforma, etc...)\n  _REQUERIMIENTOS OPS_: Son aquellas tareas que pueden ser resueltas sin llegar a nivel de código (Solicitudes Twilio, Cambios de Flujo, reprogramación de APIs, revisión de variables funcionando correctamente)\n\n*TICKETS*:\n:writing_hand::skin-tone-4:NUEVO REQUERIMIENTO\n:dart: TICKET OPERACIONES\n:robot_face: NUEVO TICKET TECH\n:rotating_light: :robot_face: TICKET URGENTE TECH\n:rotating_light: :dart: TICKET OPERACIONES URGENTE\n\n*REACCIONES*:\n:white_check_mark: TICKET FINALIZADO Y REVISADO (APRUEBA QUIEN LO REPORTÓ)\n:eyes: TICKET EN REVISIÓN\n:raised_hands::skin-tone-4: TICKET RESUELTO (POR APROBAR)\n\n*NOTAS*:\n• _*LA PERSONA QUE TOMA EL REQUERIMIENTO* DEBE ESCRIBIR OWNER EN LOS COMENTARIOS DEL HILO DEL TICKET. CUANDO LO RESUELVE, DEBE ESCRIBIR RESUELTO Y AGREGAR LA REACCIÓN, MIENTRAS QUE *LA PERSONA QUE APRUEBA* DEBE ESCRIBIR APROBADO Y REACCIONAR._\n• _CUALQUIER COSA QUE SEA REFERENTE AL TICKET, SE DEBE COMENTAR EN EL HILO DEL MISMO._",
+        "user": "U022N5F6ZGC",
+        "ts": "1642171431.027300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022N5F6ZGC",
+            "ts": "1642443247.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80I9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resumen Simbología:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "UPDATE: ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DEFINICIONES",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "REQUERIMIENTOS TECH",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Son aquellas tareas que solo pueden ser resueltas con programación (Cron, Bugs en plataforma, etc...)\n  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "REQUERIMIENTOS OPS",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Son aquellas tareas que pueden ser resueltas sin llegar a nivel de código (Solicitudes Twilio, Cambios de Flujo, reprogramación de APIs, revisión de variables funcionando correctamente)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "TICKETS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": "NUEVO REQUERIMIENTO\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET OPERACIONES\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " NUEVO TICKET TECH\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET URGENTE TECH\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET OPERACIONES URGENTE\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "REACCIONES",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET FINALIZADO Y REVISADO (APRUEBA QUIEN LO REPORTÓ)\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET EN REVISIÓN\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " TICKET RESUELTO (POR APROBAR)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NOTAS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LA PERSONA QUE TOMA EL REQUERIMIENTO ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DEBE ESCRIBIR OWNER EN LOS COMENTARIOS DEL HILO DEL TICKET. CUANDO LO RESUELVE, DEBE ESCRIBIR RESUELTO Y AGREGAR LA REACCIÓN, MIENTRAS QUE ",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "LA PERSONA QUE APRUEBA ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DEBE ESCRIBIR APROBADO Y REACCIONAR.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CUALQUIER COSA QUE SEA REFERENTE AL TICKET, SE DEBE COMENTAR EN EL HILO DEL MISMO.",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89523989-32a4-4e4c-83ce-fed7c7c5f673",
+        "type": "message",
+        "text": "<@U02TWSY0V3M> tengo una duda con el mensaje de bienvenida en twilio aparece un template distinto al que esta en el documento y el que se solicito en twilio entiendo que se quiere dejar una variable del link, pero la variable esta con la lógica de improve y no twilio, me puedes confirmar esto?",
+        "user": "U02AJP0M7L1",
+        "ts": "1642173967.028200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4YN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TWSY0V3M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tengo una duda con el mensaje de bienvenida en twilio aparece un template distinto al que esta en el documento y el que se solicito en twilio entiendo que se quiere dejar una variable del link, pero la variable esta con la lógica de improve y no twilio, me puedes confirmar esto?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642089212.013900",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "type": "message",
+        "text": "Si, dejamos este espacio para que allí como indicativo de que ese es el lugar para dejar el link de la imagen que envío adjunta . <@U02217J5895> me confirmo que se puede pasar a link y que desde su area se ponía en el template ya la URL que ustedes generen.\n\nY confirmo que el template que queremos usar es el que pedimos el Twilio.",
+        "files": [
+            {
+                "id": "F02U35U3E3U",
+                "created": 1642174203,
+                "timestamp": 1642174203,
+                "name": "Livechat New Look (4).pdf",
+                "title": "Livechat New Look (4).pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 1351458,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F02U35U3E3U\/livechat_new_look__4_.pdf?t=xoxe-2080943286501-3065704945873-3050171599509-ebc1f31d4c7a92226377822ccea694f0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F02U35U3E3U\/download\/livechat_new_look__4_.pdf?t=xoxe-2080943286501-3065704945873-3050171599509-ebc1f31d4c7a92226377822ccea694f0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02U35U3E3U-17884abe9e\/livechat_new_look__4__thumb_pdf.png?t=xoxe-2080943286501-3065704945873-3050171599509-ebc1f31d4c7a92226377822ccea694f0",
+                "thumb_pdf_w": 917,
+                "thumb_pdf_h": 2292,
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F02U35U3E3U\/livechat_new_look__4_.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F02U35U3E3U-95ce0c94a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1642174239.028400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, dejamos este espacio para que allí como indicativo de que ese es el lugar para dejar el link de la imagen que envío adjunta . "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " me confirmo que se puede pasar a link y que desde su area se ponía en el template ya la URL que ustedes generen.\n\nY confirmo que el template que queremos usar es el que pedimos el Twilio."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f97780ee-fcc0-48e7-9648-ec84f6d86413",
+        "thread_ts": "1642089212.013900",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "3a1562c2-9dab-4cbd-b76b-a8b731c70c70",
+        "type": "message",
+        "text": "<@U02TWSY0V3M> ticket resuelto",
+        "user": "U02AJP0M7L1",
+        "ts": "1642189849.029300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5y1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02TWSY0V3M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ticket resuelto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642089212.013900",
+        "parent_user_id": "U02TWSY0V3M",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a35833cc-50d2-4c28-ab9f-b5daad99a7c2",
+        "type": "message",
+        "text": "Gracias!",
+        "user": "U02TWSY0V3M",
+        "ts": "1642192564.029700",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "0010b7ee11f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2948937150243_0010b7ee11f023292071_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wYfd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642089212.013900",
+        "parent_user_id": "U02TWSY0V3M"
+    }
+]

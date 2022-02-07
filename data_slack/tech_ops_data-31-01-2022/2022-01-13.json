@@ -1,0 +1,1753 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642082357.000200",
+        "user": "U02217J5895",
+        "text": "<@U02217J5895> se ha unido al canal"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1642082358.000300",
+        "user": "U02217J5895",
+        "text": "ha establecido la descripción del canal: Solo para hablar respecto a tickets",
+        "purpose": "Solo para hablar respecto a tickets",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642082373.000500",
+        "user": "U02DBRSBBSM",
+        "text": "<@U02DBRSBBSM> se ha unido al canal",
+        "inviter": "U02217J5895"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642082374.000700",
+        "user": "U02DQBYBFNG",
+        "text": "<@U02DQBYBFNG> se ha unido al canal",
+        "inviter": "U02217J5895"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642082379.000900",
+        "user": "U022N5F6ZGC",
+        "text": "<@U022N5F6ZGC> se ha unido al canal",
+        "inviter": "U02217J5895"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642082382.001100",
+        "user": "U02AJP0M7L1",
+        "text": "<@U02AJP0M7L1> se ha unido al canal",
+        "inviter": "U02217J5895"
+    },
+    {
+        "client_msg_id": "1b16919a-b9f6-4815-b892-6859423668cf",
+        "type": "message",
+        "text": "• Hola Team",
+        "user": "U02217J5895",
+        "ts": "1642082389.001400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1VEP",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hola Team"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78534621-cba8-44f2-a53a-b158e1c4abfa",
+        "type": "message",
+        "text": "buenos días, les cree este canal para tomar y dar seguimiento a cada uno de los tickets, las normas son, siempre abrir un ticket con un icono de una estrella al inicio para destacarlo",
+        "user": "U02217J5895",
+        "ts": "1642082422.002200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zLX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "buenos días, les cree este canal para tomar y dar seguimiento a cada uno de los tickets, las normas son, siempre abrir un ticket con un icono de una estrella al inicio para destacarlo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68a7a293-7241-4636-909b-cc146bd1023e",
+        "type": "message",
+        "text": "ejemplo:",
+        "user": "U02217J5895",
+        "ts": "1642082429.002400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7AiOW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ejemplo:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5522f3fa-f40c-4c4f-a625-ec95df42a9c1",
+        "type": "message",
+        "text": ":star: Problemas con el live chat - Se cierra y no se reactiva el bot",
+        "user": "U02217J5895",
+        "ts": "1642082455.002900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yonTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Problemas con el live chat - Se cierra y no se reactiva el bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b82c9043-98aa-43bd-a228-3103ccfb6e16",
+        "type": "message",
+        "text": "segunda regla una vez qué el ticket está resuelto se debe marcar con un check y agregar la respuesta terminado",
+        "user": "U02217J5895",
+        "ts": "1642082486.003500",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02217J5895",
+            "ts": "1642082892.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZzQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "segunda regla una vez qué el ticket está resuelto se debe marcar con un check y agregar la respuesta terminado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67fa5b8f-66be-47a3-aeee-4bb52dc58bf0",
+        "type": "message",
+        "text": "Ejemplo:",
+        "user": "U02217J5895",
+        "ts": "1642082496.003700",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ze6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ejemplo:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c24fa6a5-d717-4465-a79f-222d7a7f0095",
+        "type": "message",
+        "text": ":star: Problemas con el live chat - Se cierra y no se reactiva el bot",
+        "user": "U02217J5895",
+        "ts": "1642082497.003900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JL+mE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Problemas con el live chat - Se cierra y no se reactiva el bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082497.003900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642082899.009400",
+        "reply_users": [
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1642082899.009400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfb2ee72-43e1-4246-8b31-bbff00d724c9",
+        "type": "message",
+        "text": "Tercero, si es un caracter hiper urgente se deb marcar con una sirena",
+        "user": "U02217J5895",
+        "ts": "1642082518.004500",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YfT5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tercero, si es un caracter hiper urgente se deb marcar con una sirena"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1b7447b-e87a-4f25-a980-d7ccbaf40e4c",
+        "type": "message",
+        "text": ":rotating_light:  ticket urgente - descrición del ticket",
+        "user": "U02217J5895",
+        "ts": "1642082532.004900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ticket urgente - descrición del ticket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc090cf8-7ffd-4a64-b097-d3c9a37bc330",
+        "type": "message",
+        "text": "Cuarto, las respuestas siempre deben ser sobre el hilo del ticket y no en general",
+        "user": "U02217J5895",
+        "ts": "1642082549.005300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02217J5895",
+            "ts": "1642082631.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEr8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuarto, las respuestas siempre deben ser sobre el hilo del ticket y no en general"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8740b181-324a-4011-ac34-f8a1a157379b",
+        "type": "message",
+        "text": "ejemplo",
+        "user": "U02217J5895",
+        "ts": "1642082551.005500",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ejemplo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e21f0b46-c6af-4185-a16d-b641f6a13fa0",
+        "type": "message",
+        "text": ":rotating_light:  ticket Urgente -   Descricpión",
+        "user": "U02217J5895",
+        "ts": "1642082568.006000",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XsdFb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ticket Urgente -   Descricpión"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082568.006000",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1642085890.010300",
+        "reply_users": [
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1642082589.006100"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642082605.006300"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642085890.010300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c31d99d1-2c07-488a-9783-466391896abb",
+        "type": "message",
+        "text": "respuesta o pregunta al ticket",
+        "user": "U02217J5895",
+        "ts": "1642082589.006100",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lCY4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "respuesta o pregunta al ticket"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082568.006000",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "b62af234-8207-46d3-89da-293c557c7aff",
+        "type": "message",
+        "text": "Se debe seguir este hilo para reducir el espacio visual",
+        "user": "U02217J5895",
+        "ts": "1642082605.006300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Iazy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se debe seguir este hilo para reducir el espacio visual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082568.006000",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "322d0310-eb12-436a-8ef3-b22bfab5a7f7",
+        "type": "message",
+        "text": "Agradezco su apoyo y que traten de seguir el formato siempre",
+        "user": "U02217J5895",
+        "ts": "1642082649.007000",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agradezco su apoyo y que traten de seguir el formato siempre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76d840d9-6297-477f-91cf-94f819b9d26b",
+        "type": "message",
+        "text": ":star:  ECR reportó que se cierra el chat y no vuelve al bot al cerrar el browser Reporter: <@U02DBRSBBSM>",
+        "user": "U02217J5895",
+        "ts": "1642082687.007800",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JgjhE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ECR reportó que se cierra el chat y no vuelve al bot al cerrar el browser Reporter: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082687.007800",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1643033442.003900",
+        "reply_users": [
+            "U02217J5895",
+            "U02DBRSBBSM",
+            "U02KN0DBT9N"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1642082710.007900"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1642082883.009100"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642168403.019900"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642514804.050700"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642687321.075400"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1643033442.003900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hourglass",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fee31cf-8120-4d89-9798-07b73286eaab",
+        "type": "message",
+        "text": "David podemos tener el número con el que se cerro el liveChat para poder indagar sobre en que estado se encuentra el chat ?",
+        "user": "U02217J5895",
+        "ts": "1642082710.007900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "baQmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "David podemos tener el número con el que se cerro el liveChat para poder indagar sobre en que estado se encuentra el chat ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082687.007800",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "4c216ce1-4aae-4fe7-bd5c-e8d92be4a963",
+        "type": "message",
+        "text": ":star:  Dos ejecutivos están pudiendo tomar el mismo chat Reporte: <@U02DBRSBBSM>",
+        "user": "U02217J5895",
+        "ts": "1642082777.008400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02217J5895",
+            "ts": "1642082957.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6L9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Dos ejecutivos están pudiendo tomar el mismo chat Reporte: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082777.008400",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1643046220.013100",
+        "reply_users": [
+            "U02217J5895",
+            "U02KN0DBT9N",
+            "U02DBRSBBSM"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1642082796.008500"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642428722.034400"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642450774.045500"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642514681.050200"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642687338.075600"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1643033454.004300"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1643046219.012900"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1643046220.013100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02DBRSBBSM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "859ba48c-8ba5-450b-bf39-3758fd32e32c",
+        "type": "message",
+        "text": "Revisar si solo un tipo de perfil puede",
+        "user": "U02217J5895",
+        "ts": "1642082796.008500",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Revisar si solo un tipo de perfil puede"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082777.008400",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "3063fcb2-f312-44ac-9414-44492c3c4b36",
+        "type": "message",
+        "text": "Tratare de tener esa info",
+        "user": "U02DBRSBBSM",
+        "ts": "1642082883.009100",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tratare de tener esa info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082687.007800",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "0f81799c-c344-4ac7-a6b1-b3acbbe0233b",
+        "type": "message",
+        "text": "Terminado",
+        "user": "U02217J5895",
+        "ts": "1642082899.009400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Terminado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082497.003900",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642085750.009800",
+        "user": "U02KN0DBT9N",
+        "text": "<@U02KN0DBT9N> se ha unido al canal",
+        "inviter": "U02217J5895"
+    },
+    {
+        "client_msg_id": "e9453319-f25f-4096-aba1-3f36cf5b534c",
+        "type": "message",
+        "text": "Terminado, solo era ejemplo",
+        "user": "U02217J5895",
+        "ts": "1642085890.010300",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Pvor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Terminado, solo era ejemplo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082568.006000",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1642085897.010500",
+        "user": "U02TWSY0V3M",
+        "text": "<@U02TWSY0V3M> se ha unido al canal"
+    },
+    {
+        "client_msg_id": "6f19d04c-a536-4fdf-9b01-25453e397ff1",
+        "type": "message",
+        "text": ":rotating_light: Ajustar templates de bienvendida y salida despedida del live chat:\n•  Bienvenida agregar el link de la imagen previamente enviada. (template ya pedido) \n• Ajustar mensaje de despedida. (template ya pedido) ",
+        "user": "U02TWSY0V3M",
+        "ts": "1642089212.013900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "0010b7ee11f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2948937150243_0010b7ee11f023292071_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ajustar templates de bienvendida y salida despedida del live chat:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " Bienvenida agregar el link de la imagen previamente enviada. (template ya pedido) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ajustar mensaje de despedida. (template ya pedido) "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642089212.013900",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1642428778.034600",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M",
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1642170807.021300"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1642173967.028200"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1642174239.028400"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1642189849.029300"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1642192564.029700"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642428778.034600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895",
+                    "U02AJP0M7L1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47ab00dd-4dab-43af-86f5-6264d6cd38f7",
+        "type": "message",
+        "text": "Team nueva regla, agreguen la reacción :eyes:  para cuándo esten trabajando en un ticket reportado, demás de agregar en las respuestas quién lo está tomando",
+        "user": "U02217J5895",
+        "ts": "1642094011.014600",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02217J5895",
+            "ts": "1642099081.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o9EGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Team nueva regla, agreguen la reacción "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  para cuándo esten trabajando en un ticket reportado, demás de agregar en las respuestas quién lo está tomando"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a182e30e-39cc-440e-841d-893e226d908c",
+        "type": "message",
+        "text": "así podemos saber el esado",
+        "user": "U02217J5895",
+        "ts": "1642094019.014900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "así podemos saber el esado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e6cfcfd-bd8a-461e-9371-db4c3f27c51d",
+        "type": "message",
+        "text": "estado",
+        "user": "U02217J5895",
+        "ts": "1642094020.015100",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "estado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "346c5af5-ca9b-40ff-97cd-d709e3d492f6",
+        "type": "message",
+        "text": ":raised_hands:  para cuándo este resuelto y :white_check_mark:  para cuándo este cerrado",
+        "user": "U02217J5895",
+        "ts": "1642094054.015800",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "El8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  para cuándo este resuelto y "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  para cuándo este cerrado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f09eccf-d79d-4312-baaf-e275e82ffbc3",
+        "type": "message",
+        "text": ":star: Ajustar notificaciones para el live chat para que se activen siempre. (Sonido en pc y celular)",
+        "user": "U02TWSY0V3M",
+        "ts": "1642095065.016900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "0010b7ee11f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2948937150243_0010b7ee11f023292071_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6E02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ajustar notificaciones para el live chat para que se activen siempre. (Sonido en pc y celular)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642095065.016900",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1643041673.011000",
+        "reply_users": [
+            "U02KN0DBT9N",
+            "U02TWSY0V3M",
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642428896.035300"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1642610971.059100"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642611073.060200"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1642614149.063900"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642619349.066100"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1643033476.004800"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1643033921.008100"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1643041673.011000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "142073ae-47e2-4c65-8d46-fd4bb2e82c21",
+        "type": "message",
+        "text": ":star: Ajustar la opción de que poder escribirle a los usuarios siempre. Y que la reactivación tenga opción cada 24 horas.",
+        "user": "U02TWSY0V3M",
+        "ts": "1642095145.018000",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "0010b7ee11f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2948937150243_0010b7ee11f023292071_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ajustar la opción de que poder escribirle a los usuarios siempre. Y que la reactivación tenga opción cada 24 horas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642095145.018000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1642450796.045800",
+        "reply_users": [
+            "U02KN0DBT9N"
+        ],
+        "replies": [
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642428914.035500"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1642450796.045800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc524173-aca2-42b0-9d86-ae1573a14a49",
+        "type": "message",
+        "text": ":rotating_light: Tenemos una alerta roja con GEO: El bot presenta inconvenientes. <@U02217J5895> <@U02AJP0M7L1> ¿Podemos juntarnos de urgencia?",
+        "user": "U022N5F6ZGC",
+        "ts": "1642107742.019600",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a2d8da2f8ce8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-08-04\/2369914632432_a2d8da2f8ce8d4393304_72.jpg",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvlF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tenemos una alerta roja con GEO: El bot presenta inconvenientes. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AJP0M7L1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ¿Podemos juntarnos de urgencia?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC",
+                    "U02217J5895"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

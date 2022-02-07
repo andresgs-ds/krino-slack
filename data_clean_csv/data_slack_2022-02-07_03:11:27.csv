@@ -1,0 +1,52 @@
+user_ticket,ticket_owner,text,ts,thread_ts,latest_reply,t_revisado,t_resuelto,t_finalizado,nuevo_req,ticket_ops,ticket_tech,urgente,Duracion_Ticket_horas
+jmansilla,istuardo,"*TICKETS*:
+:writing_hand::skin-tone-4:NUEVO REQUERIMIENTO
+:dart: TICKET OPERACIONES
+:robot_face: NUEVO TICKET TECH
+:rotating_light: :robot_face: TICKET URGENTE TECH
+:rotating_light: :dart: TICKET OPERACIONES URGENTE
+
+*REACCIONES*:
+:white_check_mark: TICKET FINALIZADO Y REVISADO (APRUEBA QUIEN LO REPORTÓ)
+:eyes: TICKET EN REVISIÓN
+:raised_hands::skin-tone-4: TICKET RESUELTO (POR APROBAR)
+
+*NOTAS*:
+• _*LA PERSONA QUE TOMA EL REQUERIMIENTO* DEBE ESCRIBIR OWNER EN LOS COMENTARIOS DEL HILO DEL TICKET. CUANDO LO RESUELVE, DEBE ESCRIBIR RESUELTO Y AGREGAR LA REACCIÓN, MIENTRAS QUE *LA PERSONA QUE APRUEBA* DEBE ESCRIBIR APROBADO Y REACCIONAR._
+• _CUALQUIER COSA QUE SEA REFERENTE AL TICKET, SE DEBE COMENTAR EN EL HILO DEL MISMO._
+",2022-01-17 15:51:59.042900085,2022-01-17 14:51:17.040299892,,False,False,False,True,True,True,True,
+jmansilla,,"*TICKETS*:
+:writing_hand::skin-tone-4:NUEVO REQUERIMIENTO
+:dart: TICKET OPERACIONES
+:robot_face: NUEVO TICKET TECH
+:rotating_light: :robot_face: TICKET URGENTE TECH
+:rotating_light: :dart: TICKET OPERACIONES URGENTE
+
+*REACCIONES*:
+:white_check_mark: TICKET FINALIZADO Y REVISADO (APRUEBA QUIEN LO REPORTÓ)
+:eyes: TICKET EN REVISIÓN
+:raised_hands::skin-tone-4: TICKET RESUELTO (POR APROBAR)
+
+*NOTAS*:
+• _*LA PERSONA QUE TOMA EL REQUERIMIENTO* DEBE ESCRIBIR OWNER EN LOS COMENTARIOS DEL HILO DEL TICKET. CUANDO LO RESUELVE, DEBE ESCRIBIR RESUELTO Y AGREGAR LA REACCIÓN, MIENTRAS QUE *LA PERSONA QUE APRUEBA* DEBE ESCRIBIR APROBADO Y REACCIONAR._
+• _CUALQUIER COSA QUE SEA REFERENTE AL TICKET, SE DEBE COMENTAR EN EL HILO DEL MISMO._
+",2022-01-17 15:51:59.042900085,2022-01-17 14:51:17.040299892,,False,False,False,True,True,True,True,
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*IFRAME*_ : Terminar y probar iframe con nuevo motor.,2022-01-18 13:09:05.049700022,2022-01-18 13:09:05.049700022,2022-01-31 14:43:15.390829086,True,True,True,False,True,True,True,313.5695392025178
+istuardo,nsanhueza,:robot_face::dart: PY: Revisar historial de conversación en correo electrónico.,2022-01-21 14:01:09.098799944,2022-01-21 14:01:09.098799944,2022-02-01 14:09:50.218259096,True,True,True,False,True,True,False,264.14475540532
+istuardo,,:writing_hand::skin-tone-4: :dart: :robot_face: GEO: Crear CRON para reintento de envío de LEAD,2022-01-21 14:14:02.102099895,2022-01-21 14:14:02.102099895,2022-01-25 13:46:48.002799988,True,True,True,True,True,True,False,95.54608352780362
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*NOTIFICACIONES*_: Notificaciones de TF off no funciona.,2022-01-24 14:17:13.007299900,2022-01-24 14:17:13.007299900,2022-01-25 14:02:40.004600048,True,True,True,False,True,True,True,23.75749925004111
+david,jmansilla,:writing_hand: :dart::robot_face: Agregar bot bmw a facebook y whatsapp y hacer test,2022-01-26 14:32:05.001699924,2022-01-26 14:32:05.001699924,2022-01-31 14:18:19.889838934,False,True,True,True,True,True,False,119.7708022608361
+istuardo,,"La simbología se puede mezclar, por ejemplo:
+:writing_hand::skin-tone-4: :rotating_light: :dart:  significaría nuevo requerimiento urgente para Ops
+
+:writing_hand::skin-tone-4: :robot_face: significaría nuevo requerimiento a Tech
+
+y asi...",2022-01-28 16:11:15.521919012,2022-01-27 20:35:09.025700092,,False,False,False,True,True,True,True,
+istuardo,,Si se necesitan ambos departamentos de forma urgente es :rotating_light: :robot_face: :dart:,2022-01-28 16:11:39.701678991,2022-01-27 20:35:09.025700092,,False,False,False,False,True,True,True,
+omar,jmansilla,":writing_hand: :robot_face: :dart: Hola, podemos subir el Bot de KripTon que teníamos anteriormente en <http://krino.ai|krino.ai>, a la nueva página",2022-01-28 16:43:56.479779005,2022-01-28 16:43:56.479779005,2022-01-31 14:24:07.624878883,True,True,True,True,True,True,False,69.66976252774388
+omar,juan,":writing_hand: :robot_face: :dart:  Kriator: Al Guardar una validación de variable, las futuras configuraciones se guardan pero no se muestran en la tarjeta... Ejemplo:",2022-01-31 02:07:15.080239058,2022-01-31 02:07:15.080239058,2022-02-02 23:27:40.676918983,False,True,False,True,True,True,False,69.34044352220138
+omar,juan,":writing_hand: :robot_face: :dart:  Kriator: Al Guardar una validación de variable, las futuras configuraciones se guardan pero no se muestran en la tarjeta... Ejemplo:",2022-01-31 02:07:15.080239058,2022-01-31 02:07:15.080239058,2022-02-02 23:27:40.676918983,False,True,False,True,True,True,False,69.34044352220138
+omar,juan,:writing_hand: :robot_face: :dart:  Kriator: Cambiar la categoría Reclutamiento a Recursos Humanos,2022-01-31 03:07:44.919799089,2022-01-31 03:07:44.919799089,2022-02-02 14:49:32.132169008,False,True,False,True,True,True,False,59.69644788053306
+omar,jmansilla,:writing_hand: :robot_face: :dart: Página Web: Los botones están desalíneados...,2022-01-31 15:41:36.741919041,2022-01-31 15:41:36.741919041,2022-02-02 14:50:18.686378956,False,True,False,True,True,True,False,47.14498457219861
+jmansilla,istuardo,:writing_hand: :robot_face: :dart:  Necesitamos sub dominio dev para la pagina para no afectar los regisros en hotjar y el resto de metricas,2022-02-01 19:17:09.421768904,2022-02-01 19:17:09.421768904,2022-02-01 22:25:22.519078970,True,True,True,True,True,True,False,3.1369714750183335
+vprieto,,":writing_hand::skin-tone-3: :robot_face: :dart: Crear Plantilla/Categoría en Kriator que ya esté conectada con alguna integración (PlanOk, HCMFront, etc) y que esta Plantilla/Categoría sólo esté disponible para un grupo específico de usuarios que podamos entregar accesos.",2022-02-03 15:17:33.015378952,2022-02-03 15:17:33.015378952,2022-02-03 16:10:45.180958986,False,False,False,True,True,True,False,0.8867126611205556
