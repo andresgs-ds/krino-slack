@@ -192,6 +192,7 @@ app.layout = html.Div([
                                     page_action="native",
                                     page_current= 0,
                                     page_size= 5,
+                                    export_format="csv",
                                     style_cell={'textAlign': 'center',
                                         'backgroundColor': 'rgb(50, 50, 50)',
                                         'color': 'white'},
