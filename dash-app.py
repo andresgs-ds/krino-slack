@@ -7,7 +7,7 @@ import dash_bootstrap_components as dbc
 from graphs_slack import *
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
-
+server = app.server
 # Funciones DataTable
 
 PAGE_SIZE = 5
@@ -221,4 +221,4 @@ app.layout = html.Div([
 ])
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server()
