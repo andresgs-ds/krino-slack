@@ -147,7 +147,7 @@ app.layout = html.Div([
                         dbc.Card(
                             dbc.CardBody([
                                 html.Div([
-                                    html.H2('Tickets sin asignar')
+                                    html.H2('Tickets Abiertos')
                                 ]),
                                 html.Br(),
                                 dash_table.DataTable(
