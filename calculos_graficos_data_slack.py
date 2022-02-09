@@ -1,7 +1,5 @@
 import pandas as pd
-
-# -- Import and clean data (importing csv into pandas)
-df = pd.read_csv("data_clean_csv/data_slack_2022-02-08_02:35:10.csv")
+from df_variable import *
 
 # Tiempo Duracion Ticket Urgente - Ops
 
@@ -9,11 +7,19 @@ tickets_ops = df[df['urgente'] == True]
 
 tickets_ops_time = tickets_ops[tickets_ops['ticket_ops'] == True]
 
+valor_ref_ops = df_old[df_old['urgente'] == True]
+
+valor_ref_ops_time = valor_ref_ops[valor_ref_ops['ticket_ops'] == True]
+
 # Tiempo Duracion Ticket Urgente - Tech
 
 tickets_tech = df[df['urgente'] == True]
 
 tickets_tech_time = tickets_tech[tickets_tech['ticket_tech'] == True]
+
+valor_ref_tech = df_old[df_old['urgente'] == True]
+
+tickets_ref_tech_time = valor_ref_tech[valor_ref_tech['ticket_tech'] == True]
 
 # Tiempo Duracion Ticket Nuevo Requerimiento - Ops
 
@@ -21,13 +27,19 @@ tickets_req_ops = df[df['nuevo_req'] == True]
 
 tickets_req_ops_time = tickets_req_ops[tickets_req_ops['ticket_ops'] == True]
 
-tickets_req_ops_time[tickets_req_ops_time['t_resuelto'] == True].describe()
+valor_ref_req_ops = df_old[df_old['nuevo_req'] == True]
+
+valor_ref_req_ops_time = valor_ref_req_ops[valor_ref_req_ops['ticket_ops'] == True]
 
 # Tiempo Duracion Ticket Nuevo Requerimiento - Tech
 
 tickets_req_tech = df[df['nuevo_req'] == True]
 
 tickets_req_tech_time = tickets_req_tech[tickets_req_tech['ticket_tech'] == True]
+
+valor_ref_req_tech = df_old[df_old['nuevo_req'] == True]
+
+valor_ref_req_tech_time = valor_ref_req_tech[valor_ref_req_tech['ticket_tech'] == True]
 
 # Se calcularon la cantidad de tickets Urgentes recibidos por Tech y Ops
 

@@ -12,7 +12,7 @@ fig_cantidad_ticket.add_trace(go.Indicator(
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_cantidad_ticket.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
@@ -25,7 +25,7 @@ fig_funnel_ticket.update_layout(
         'text': "<b>Funnel Estado Tickets</b>",
         'xanchor': 'left',
         'yanchor': 'top'},
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
     
@@ -34,70 +34,75 @@ fig_funnel_ticket.update_layout(
 fig_duracion_ticket = go.Figure()
 
 fig_duracion_ticket.add_trace(go.Indicator(
-    mode = "number",
+    mode = "number+delta",
     value = df[df['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'],
+    title = {"text": "<span style='font-size:1.5em'>Duración Promedio</span><br><span style='font-size:1.3em'>Tickets Resueltos</span><br>"},
+    delta = {'reference': df_old[df_old['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'], 'relative': True, 'decreasing': {'color' : '#3D9970', 'symbol': '🡫'}, 'increasing': {'color' : '#FF4136', 'symbol': '🡩'}, 'valueformat' : '.1%'},
     number = {'suffix' : ' Horas'},
-    title = {"text": "<span style='font-size:1.5em'>Duracion Promedio</span><br><span style='font-size:1.5em'>Tickets Resueltos</span><br>"},
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_duracion_ticket.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
 fig_duracion_nuevo_req_ops = go.Figure()
 
 fig_duracion_nuevo_req_ops.add_trace(go.Indicator(
-    mode = "number",
+    mode = "number+delta",
     value = tickets_req_ops_time[tickets_req_ops_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'],
+    delta = {'reference': valor_ref_req_ops_time[valor_ref_req_ops_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'], 'relative': True, 'decreasing': {'color' : '#3D9970', 'symbol': '🡫'}, 'increasing': {'color' : '#FF4136', 'symbol': '🡩'}, 'valueformat' : '.1%'},
     number = {'suffix' : ' Horas'},
     title = {"text": "<span style='font-size:1.5em'>Duracion Promedio Tickets</span><br><span style='font-size:1.4em'>Nuevo Requerimiento Ops</span><br>"},
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_duracion_nuevo_req_ops.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
 fig_duracion_urgente_ops = go.Figure()
 
 fig_duracion_urgente_ops.add_trace(go.Indicator(
-    mode = "number",
+    mode = "number+delta",
     value = tickets_ops_time[tickets_ops_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'],
+    delta = {'reference': valor_ref_ops_time[valor_ref_ops_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'], 'relative': True, 'decreasing': {'color' : '#3D9970', 'symbol': '🡫'}, 'increasing': {'color' : '#FF4136', 'symbol': '🡩'}, 'valueformat' : '.1%'},
     number = {'suffix' : ' Horas'},
     title = {"text": "<span style='font-size:1.5em'>Duracion Promedio Tickets</span><br><span style='font-size:1.4em'>Urgente Ops</span><br>"},
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_duracion_urgente_ops.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
 fig_duracion_nuevo_req_tech = go.Figure()
 
 fig_duracion_nuevo_req_tech.add_trace(go.Indicator(
-    mode = "number",
+    mode = "number+delta",
     value = tickets_req_tech_time[tickets_req_tech_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'],
+    delta = {'reference': valor_ref_req_tech_time[valor_ref_req_tech_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'], 'relative': True, 'decreasing': {'color' : '#3D9970', 'symbol': '🡫'}, 'increasing': {'color' : '#FF4136', 'symbol': '🡩'}, 'valueformat' : '.1%'},
     number = {'suffix' : ' Horas'},
     title = {"text": "<span style='font-size:1.5em'>Duracion Promedio Tickets</span><br><span style='font-size:1.4em'>Nuevo Requerimiento Tech</span><br>"},
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_duracion_nuevo_req_tech.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
 fig_duracion_urgente_tech = go.Figure()
 
 fig_duracion_urgente_tech.add_trace(go.Indicator(
-    mode = "number",
+    mode = "number+delta",
     value = tickets_tech_time[tickets_tech_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'],
+    delta = {'reference': tickets_ref_tech_time[tickets_ref_tech_time['t_resuelto'] == True].describe()['Duracion_Ticket_horas']['mean'], 'relative': True, 'decreasing': {'color' : '#3D9970', 'symbol': '🡫'}, 'increasing': {'color' : '#FF4136', 'symbol': '🡩'}, 'valueformat' : '.1%'},
     number = {'suffix' : ' Horas'},
     title = {"text": "<span style='font-size:1.5em'>Duracion Promedio Tickets</span><br><span style='font-size:1.4em'>Urgente Tech</span><br>"},
     domain = {'x': [1, 1], 'y': [1, 1]}))
 
 fig_duracion_urgente_tech.update_layout(
-    template='plotly_dark',
+    template='plotly_white',
     plot_bgcolor = 'rgba(0,0,0,0)',
     paper_bgcolor= 'rgba(0, 0, 0, 0)')
 
@@ -107,7 +112,7 @@ fig_cantidad_ticket_urgentes_ops_tech = go.Figure(data=[
 ])
 fig_cantidad_ticket_urgentes_ops_tech.update_layout(barmode='group',
                                                     title_text='<b>Tickets No Urgentes vs Urgentes Tech-Ops</b>',
-                                                    template='plotly_dark',
+                                                    template='plotly_white',
                                                     plot_bgcolor='rgba(0,0,0,0)',
                                                     paper_bgcolor='rgba(0,0,0,0)')
 
@@ -117,17 +122,23 @@ fig_cantidad_ticket_req_ops_tech = go.Figure(data=[
 ])
 fig_cantidad_ticket_req_ops_tech.update_layout(barmode='group',
                                                 title_text='<b>Tickets Nuevos Requerimientos Tech-Ops</b>', 
-                                                template='plotly_dark',
+                                                template='plotly_white',
                                                 plot_bgcolor='rgba(0,0,0,0)',
                                                 paper_bgcolor='rgba(0,0,0,0)')
 
 
 tickets_resueltos_tech_ops = px.bar(df_count_owner_resueltos, x='ticket_owner', y='Count', title='<b>Tickets Resueltos</b>')
-tickets_resueltos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_dark'})
+tickets_resueltos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_white'})
 
 tickets_abiertos_tech_ops = px.bar(df_count_owner_abiertos, x='ticket_owner', y='Count', title='<b>Tickets Abiertos</b>')
-tickets_abiertos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_dark'})
+tickets_abiertos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_white'})
 
 data_table_dash_app = df[(df['t_resuelto'] == False) & (df['t_finalizado'] == False)]
+
+df_copy = df
+
+for col, dtype in df_copy.dtypes.items():
+    if dtype == 'bool':
+        df_copy[col] = df_copy[col].astype('str')
 
 
