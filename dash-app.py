@@ -7,6 +7,8 @@ import dash_bootstrap_components as dbc
 from graphs_slack import *
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CERULEAN])
+app.title = 'Dashboard Krino-Slack'
+app._favicon = ("K-Logo.png")
 server = app.server
 # Funciones DataTable
 
