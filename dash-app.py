@@ -218,8 +218,8 @@ app.layout = html.Div([
                                              'filter_query': '{t_finalizado} eq "False" && {t_resuelto} eq "False" && {t_revisado} eq "True"',
                                              'column_type': 'any',
                                          },
-                                        'backgroundColor': 'tomato',
-                                        'color': 'white',
+                                        'backgroundColor': 'orange',
+                                        'color': 'black',
                                         } 
                                     ],
                                     style_cell={'textAlign': 'center',
