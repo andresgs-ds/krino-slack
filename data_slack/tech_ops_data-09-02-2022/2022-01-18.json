@@ -1,0 +1,863 @@
+[
+    {
+        "client_msg_id": "ed1932b7-70a0-45ee-a911-f2966de99e89",
+        "type": "message",
+        "text": ":rotating_light: :dart: :robot_face: _*IFRAME*_ : Terminar y probar iframe con nuevo motor.",
+        "user": "U022N5F6ZGC",
+        "ts": "1642511345.049700",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xP8n4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "IFRAME",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : Terminar y probar iframe con nuevo motor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642511345.049700",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1643640195.390829",
+        "reply_users": [
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1642511355.049900"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1643640195.390829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643640195.390829",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdef1cfc-97a7-49da-9b1d-c9aff7b5ef6e",
+        "type": "message",
+        "text": "*Owner*: <@U022N5F6ZGC>",
+        "user": "U022N5F6ZGC",
+        "ts": "1642511355.049900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022N5F6ZGC",
+            "ts": "1642511380.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022N5F6ZGC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642511345.049700",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "328b5065-3475-4b0c-af93-48eec0a9b3d6",
+        "type": "message",
+        "text": "<@U02DBRSBBSM> Por favor validar si quedó bien resuelto y marcar como cerrado si es así o pedir reapertura",
+        "user": "U02217J5895",
+        "ts": "1642514681.050200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/f7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Por favor validar si quedó bien resuelto y marcar como cerrado si es así o pedir reapertura"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082777.008400",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "67719f30-d754-4c3c-959c-9e62fbf742f9",
+        "type": "message",
+        "text": "esperando informacion  :hourglass:",
+        "user": "U02KN0DBT9N",
+        "ts": "1642514804.050700",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "4f98233aaeb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2763968238548_4f98233aaeb615b02b0d_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Diego Carrero",
+            "display_name": "Juan Diego Carrero",
+            "team": "T022CTR8EER",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02KN0DBT9N",
+            "ts": "1642514897.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esperando informacion  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hourglass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642082687.007800",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "abf7c0b1-e163-4f8f-b6c3-85b52da5a4f5",
+        "type": "message",
+        "text": "Por favor Andrés agregar :writing_hand:  antes del robot debido a que es un nuevo requerimiento, muchas gracias.",
+        "user": "U02217J5895",
+        "ts": "1642514954.051200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por favor Andrés agregar "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  antes del robot debido a que es un nuevo requerimiento, muchas gracias."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "44bafa5d-50fe-421d-baae-db4bfb2d258b",
+        "type": "message",
+        "text": "Vamos a usar todos para todos? plataforma y pagina?",
+        "user": "U02217J5895",
+        "ts": "1642515028.051400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUzFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vamos a usar todos para todos? plataforma y pagina?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "0d09e655-32c1-47f8-b186-c4fa532d1035",
+        "type": "message",
+        "text": "<@U02217J5895> Según lo conversado será de la siguiente forma:\n• Google Analytics - Pagina Web\n• Hotjar - Pagina Web y Plataforma\n• Heap - Pagina Web\n• Mixpanel - Plataforma",
+        "user": "U02G57HLWHK",
+        "ts": "1642519327.051900",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "3fd77fbd4153",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758776929269_3fd77fbd41532bfc6902_72.png",
+            "first_name": "Andrés",
+            "real_name": "Andrés Guiñazu",
+            "display_name": "Andrés Guiñazú",
+            "team": "T022CTR8EER",
+            "name": "andresg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02G57HLWHK",
+            "ts": "1642519342.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=jD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Según lo conversado será de la siguiente forma:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Google Analytics - Pagina Web"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hotjar - Pagina Web y Plataforma"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Heap - Pagina Web"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Mixpanel - Plataforma"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "cf0b8c80-8a3a-4994-8b91-2c29e8befe78",
+        "type": "message",
+        "text": ":writing_hand::robot_face: Probar en la plataforma si es posible integrar los dashboard de Metabase, les dejo los links de incrustación:\n• Link Publico: <http:\/\/ec2-52-87-221-38.compute-1.amazonaws.com\/public\/dashboard\/f8027f5c-8cc2-424e-adc7-178b3b91324b>\n• Incrustación Publica: \n&lt;iframe\n    src=\"<http:\/\/ec2-52-87-221-38.compute-1.amazonaws.com\/public\/dashboard\/f8027f5c-8cc2-424e-adc7-178b3b91324b>\"\n    frameborder=\"0\"\n    width=\"800\"\n    height=\"600\"\n    allowtransparency\n&gt;&lt;\/iframe&gt;",
+        "user": "U02G57HLWHK",
+        "ts": "1642519503.053700",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "3fd77fbd4153",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758776929269_3fd77fbd41532bfc6902_72.png",
+            "first_name": "Andrés",
+            "real_name": "Andrés Guiñazu",
+            "display_name": "Andrés Guiñazú",
+            "team": "T022CTR8EER",
+            "name": "andresg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=fh9v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Probar en la plataforma si es posible integrar los dashboard de Metabase, les dejo los links de incrustación:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Link Publico: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/ec2-52-87-221-38.compute-1.amazonaws.com\/public\/dashboard\/f8027f5c-8cc2-424e-adc7-178b3b91324b"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Incrustación Publica: "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<iframe\n    src=\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ec2-52-87-221-38.compute-1.amazonaws.com\/public\/dashboard\/f8027f5c-8cc2-424e-adc7-178b3b91324b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"\n    frameborder=\"0\"\n    width=\"800\"\n    height=\"600\"\n    allowtransparency\n><\/iframe>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642519503.053700",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1643120976.006500",
+        "reply_users": [
+            "U022UJXDF6V",
+            "U02G57HLWHK",
+            "U02217J5895",
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022UJXDF6V",
+                "ts": "1642520525.054000"
+            },
+            {
+                "user": "U02G57HLWHK",
+                "ts": "1642520549.054200"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1642601238.055400"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1642773843.099700"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1642773877.099900"
+            },
+            {
+                "user": "U02G57HLWHK",
+                "ts": "1643120976.006500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643120976.006500",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02G57HLWHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70696bf1-cf54-40fa-84f6-f4f2a8594f71",
+        "type": "message",
+        "text": "Podemos medir el esfuerzo de implementación? Veo redundancia que entiendo es para evaluar la mejor solución pero para ir partiendo con las de prioridad más alta",
+        "user": "U022UJXDF6V",
+        "ts": "1642520463.053800",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Podemos medir el esfuerzo de implementación? Veo redundancia que entiendo es para evaluar la mejor solución pero para ir partiendo con las de prioridad más alta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "02051274-7d97-4cdc-8158-7e05bb35c7f0",
+        "type": "message",
+        "text": "Esto iría directo en plataforma con un link único por cliente verdad?",
+        "user": "U022UJXDF6V",
+        "ts": "1642520525.054000",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DATEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Esto iría directo en plataforma con un link único por cliente verdad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642519503.053700",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "6632f33d-0acc-4352-8e3e-bbd0a38fa7b3",
+        "type": "message",
+        "text": "claro, cada dashboard de cada cliente tiene su propio link unico",
+        "user": "U02G57HLWHK",
+        "ts": "1642520549.054200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "3fd77fbd4153",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758776929269_3fd77fbd41532bfc6902_72.png",
+            "first_name": "Andrés",
+            "real_name": "Andrés Guiñazu",
+            "display_name": "Andrés Guiñazú",
+            "team": "T022CTR8EER",
+            "name": "andresg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v47+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "claro, cada dashboard de cada cliente tiene su propio link unico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642519503.053700",
+        "parent_user_id": "U02G57HLWHK",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U022UJXDF6V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52b3a7e8-2651-43c0-9e9c-5c5a391563c2",
+        "type": "message",
+        "text": "es solo añadir la sección de codigo",
+        "user": "U02G57HLWHK",
+        "ts": "1642521039.054400",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "3fd77fbd4153",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758776929269_3fd77fbd41532bfc6902_72.png",
+            "first_name": "Andrés",
+            "real_name": "Andrés Guiñazu",
+            "display_name": "Andrés Guiñazú",
+            "team": "T022CTR8EER",
+            "name": "andresg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8jk2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es solo añadir la sección de codigo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "86182455-d886-4a1c-8d75-bfda590baee4",
+        "type": "message",
+        "text": ":writing_hand: :robot_face: Nuevo requerimiento Wizard acepto de términos y condiciones",
+        "user": "U02217J5895",
+        "ts": "1642522495.055200",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nuevo requerimiento Wizard acepto de términos y condiciones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642522495.055200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1643120976.006300",
+        "reply_users": [
+            "U02217J5895",
+            "U02KN0DBT9N"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1642601351.055700"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1643120968.006100"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1643120976.006300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02G57HLWHK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U02G57HLWHK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

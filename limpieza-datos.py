@@ -8,7 +8,7 @@ from json_to_dataframe import json_to_dataframe
 from merge_dict import merge_dict
 
 #---------------
-directorio_archivos_json = 'data_slack/tech_ops_data-08-02-2022/' 
+directorio_archivos_json = 'data_slack/tech_ops_data-09-02-2022/' 
 directorio_user_data = 'data_slack/user-data/'
 
 df = json_to_dataframe(directorio_archivos_json) 
