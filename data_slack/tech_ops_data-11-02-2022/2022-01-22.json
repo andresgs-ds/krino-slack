@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "104efe4d-fc4a-4365-a9af-416edf825ed3",
+        "type": "message",
+        "text": "Resuelto, implementadas en nuevva pagina y plataforma",
+        "user": "U02217J5895",
+        "ts": "1642874072.000100",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUT1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resuelto, implementadas en nuevva pagina y plataforma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642483320.048400",
+        "parent_user_id": "U02G57HLWHK"
+    }
+]

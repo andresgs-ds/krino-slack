@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "938455a5-d1c1-4c92-8b09-599b64f98894",
+        "type": "message",
+        "text": "owner: <@U02AJP0M7L1>",
+        "user": "U02AJP0M7L1",
+        "ts": "1644585740.248569",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eT5la",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "owner: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AJP0M7L1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644531659.523959",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "f01c2cfa-772a-48b7-8d18-ea427214dacc",
+        "type": "message",
+        "text": "<@U02DBRSBBSM> me puedes decir que bot es?",
+        "user": "U02AJP0M7L1",
+        "ts": "1644585763.039999",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lT4DB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " me puedes decir que bot es?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644531659.523959",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "c37aab45-5cbc-4f50-8782-ae97647354f5",
+        "type": "message",
+        "text": "hola nat",
+        "user": "U02DBRSBBSM",
+        "ts": "1644585918.835789",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5Dnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola nat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644531659.523959",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "408d5fd3-5679-4182-9dda-9d77b4289b14",
+        "type": "message",
+        "text": "Me pasa a mi y a un cliente de sofia tambien",
+        "user": "U02DBRSBBSM",
+        "ts": "1644585926.802839",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zm+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me pasa a mi y a un cliente de sofia tambien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644531659.523959",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "59407a80-1573-4aab-b1ee-dffc27053d74",
+        "type": "message",
+        "text": "en el que me pasa a mi se llama landing planok",
+        "user": "U02DBRSBBSM",
+        "ts": "1644585938.594739",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en el que me pasa a mi se llama landing planok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644531659.523959",
+        "parent_user_id": "U02DBRSBBSM"
+    }
+]
