@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "0caa4a21-ee5e-4f75-89c4-deb2cde87160",
+        "type": "message",
+        "text": "En revisión. Efectivamente no les había llegado el correo porque me equivoqué escribiendo la dirección del desarrollador de ABZ :confused:",
+        "user": "U022N5F6ZGC",
+        "ts": "1644932800.878719",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En revisión. Efectivamente no les había llegado el correo porque me equivoqué escribiendo la dirección del desarrollador de ABZ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643038063.010900",
+        "parent_user_id": "U02DBRSBBSM"
+    }
+]
