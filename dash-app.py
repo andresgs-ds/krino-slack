@@ -10,6 +10,7 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.CERULEAN])
 app.title = 'Dashboard Krino-Slack'
 app._favicon = ("K-Logo.png")
 server = app.server
+
 # Funciones DataTable
 
 estilo_sombra = {'box-shadow': '0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19)'}
@@ -141,6 +142,18 @@ app.layout = html.Div([
                         ),  
                     ])
                 ], width=6),
+            ], align='center'),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    html.Div([
+                        dbc.Card(
+                            dbc.CardBody([
+                                dcc.Graph(id='ticket creados colaboradores', figure=tickets_creados_tech_ops, config={'displayModeBar': False})
+                            ]), style = estilo_sombra
+                        ),  
+                    ])
+                ], width=12),
             ], align='center'),
             html.Br(),
             dbc.Row([

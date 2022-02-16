@@ -62,14 +62,21 @@ df_suma_provisoria_req = df[['nuevo_req','ticket_ops']]
 df_suma_provisoria_req['suma'] = df[['nuevo_req','ticket_ops']].sum(1)
 valor_req_ops =df_suma_provisoria_req['suma'].value_counts().loc[2.0]
 
-# escribir comentario
+# Se calcularon la cantidad de tickes resueltos por colaborador
 
 tickets_resueltos = df[df['t_resuelto'] == True]
 df_count_owner_resueltos = tickets_resueltos['ticket_owner'].value_counts().to_frame().reset_index()
 df_count_owner_resueltos = df_count_owner_resueltos.rename(columns= {'index': 'ticket_owner', 'ticket_owner': 'Count'}, inplace= False)
 
-# escribir comentario
+# Se calcularon la cantidad de tickes abiertos por colaborador
 
 tickets_abiertos = df[(df['t_revisado'] == True) & (df['t_resuelto'] == False) & (df['t_finalizado'] == False)]
 df_count_owner_abiertos = tickets_abiertos['ticket_owner'].value_counts().to_frame().reset_index()
 df_count_owner_abiertos = df_count_owner_abiertos.rename(columns= {'index': 'ticket_owner', 'ticket_owner': 'Count'}, inplace= False)
+
+# Se calcularon la cantidad de tickes Creados por colaborador
+
+tickets_creados = df
+df_count_ticket_creados = tickets_creados['user_ticket'].value_counts().to_frame().reset_index()
+df_count_ticket_creados = df_count_ticket_creados.rename(columns= {'index': 'user_ticket', 'user_ticket': 'Count'}, inplace= False)
+

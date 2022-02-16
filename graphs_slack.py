@@ -133,6 +133,9 @@ tickets_resueltos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'pape
 tickets_abiertos_tech_ops = px.bar(df_count_owner_abiertos, x='ticket_owner', y='Count', title='<b>Tickets Abiertos</b>')
 tickets_abiertos_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_white'})
 
+tickets_creados_tech_ops = px.bar(df_count_ticket_creados, x='user_ticket', y='Count', title='<b>Tickets Creados</b>')
+tickets_creados_tech_ops.update_layout({'plot_bgcolor': 'rgba(0,0,0,0)', 'paper_bgcolor': 'rgba(0,0,0,0)', 'template': 'plotly_white'})
+
 data_table_dash_app = df[(df['t_resuelto'] == False) & (df['t_finalizado'] == False)]
 
 df_copy = df
