@@ -70,7 +70,7 @@ df_count_owner_resueltos = df_count_owner_resueltos.rename(columns= {'index': 't
 
 # Se calcularon la cantidad de tickes abiertos por colaborador
 
-tickets_abiertos = df[(df['t_revisado'] == True) & (df['t_resuelto'] == False) & (df['t_finalizado'] == False)]
+tickets_abiertos = df[(df['t_resuelto'] == False) & (df['t_finalizado'] == False)]
 df_count_owner_abiertos = tickets_abiertos['ticket_owner'].value_counts().to_frame().reset_index()
 df_count_owner_abiertos = df_count_owner_abiertos.rename(columns= {'index': 'ticket_owner', 'ticket_owner': 'Count'}, inplace= False)
 
