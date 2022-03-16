@@ -8,7 +8,7 @@ from json_to_dataframe import json_to_dataframe
 from merge_dict import merge_dict
 
 #---------------
-directorio_archivos_json = 'data_slack/tech_ops_data-23-02-2022/' 
+directorio_archivos_json = 'data_slack/tech_ops_data-15-03-2022/' 
 directorio_user_data = 'data_slack/user-data/'
 
 df = json_to_dataframe(directorio_archivos_json) 
@@ -131,8 +131,9 @@ data_clean1 = data_clean1[data_clean1['latest_reply'] != ''].sort_values(['ts'])
 df_users_tickets = df_users[['ticket_owner', 'name']]
 df_users_tickets = df_users_tickets.rename(columns = {'name': 'user_ticket', 'ticket_owner': 'Owner'}, inplace=False)
 
-# Combine el df df_user_tickets con data_clean1 para anadirle la columna user_ticket
+# Combine el df_user_tickets con data_clean1 para añadirle la columna user_ticket
 data_clean1 = pd.merge(df_users_tickets, data_clean1, on='Owner', how='outer')
+data_clean1 = data_clean1[(data_clean1['thread_ts'] != '1643038063.010900') & (data_clean1['thread_ts'] != '1643033499.005100') & (data_clean1['thread_ts'] != '1643643742.677759')]
 
 # Eliminar columnas redundantes
 data_clean1 = data_clean1.drop(['ticket_owner', 'client_msg_id', 'Owner'], axis=1)
@@ -148,6 +149,7 @@ data_clean1['Duracion_Ticket_horas'] = data_clean1['Duracion_Ticket_horas'].appl
 data_clean1 = data_clean1[['user_ticket','name','text','ts','thread_ts','latest_reply','t_revisado','t_resuelto','t_finalizado','nuevo_req','ticket_ops','ticket_tech','urgente','Duracion_Ticket_horas']]
 data_clean1 = data_clean1.rename(columns = {'name': 'ticket_owner'}, inplace=False)
 data_clean1 = data_clean1[data_clean1['text'].notna()].sort_values(['ts']).reset_index(drop=True)
+
 
 # Exportando la data a excel en formato csv, ya que, en formato xlsx no permite exportarlo por el formato de las fechas
 data_clean1.to_csv('data_clean_csv/' + datetime.datetime.now().strftime("data_slack_%Y-%m-%d_%H:%M:%S.csv"), index=False)

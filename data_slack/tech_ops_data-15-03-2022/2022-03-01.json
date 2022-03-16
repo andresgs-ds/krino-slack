@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "042cf64c-2d9c-4cac-b13c-0e5a3485b6cf",
+        "type": "message",
+        "text": "Brutal",
+        "user": "U022UJXDF6V",
+        "ts": "1646156320.955589",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9hhV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brutal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633905.646379",
+        "parent_user_id": "U022UJXDF6V"
+    }
+]

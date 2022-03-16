@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "text": ":rotating_light::robot_face: Berta: La FAQ 3817 no esta funcionando. Berta no envía respuesta al usuario.",
+        "files": [
+            {
+                "id": "F034VRL065A",
+                "created": 1645893440,
+                "timestamp": 1645893440,
+                "name": "image (8).png",
+                "title": "image (8).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 203439,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F034VRL065A\/image__8_.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F034VRL065A\/download\/image__8_.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034VRL065A-ff70fe8f37\/image__8__64.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034VRL065A-ff70fe8f37\/image__8__80.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034VRL065A-ff70fe8f37\/image__8__360.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034VRL065A-ff70fe8f37\/image__8__480.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034VRL065A-ff70fe8f37\/image__8__160.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "original_w": 673,
+                "original_h": 372,
+                "thumb_tiny": "AwAaADDRox9ao3jskwxIyjb0BqZH3QMgkJcLkk9aBk9FVbRnMjB2J47mrVIAooooEVbq1adgVZRxjkUsdvIhzvU5XB471ZooGRRRGMkkg5HapaKKACiiigR\/\/9k=",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F034VRL065A\/image__8_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F034VRL065A-19180906e6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1645893447.774709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Berta: La FAQ 3817 no esta funcionando. Berta no envía respuesta al usuario."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "17d30a61-8caf-4c94-a61b-727703ce5602",
+        "thread_ts": "1645893447.774709",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1646235623.871089",
+        "reply_users": [
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1646235616.692549"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1646235623.871089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

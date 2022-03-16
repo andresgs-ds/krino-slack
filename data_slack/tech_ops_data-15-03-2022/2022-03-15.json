@@ -1,0 +1,291 @@
+[
+    {
+        "type": "message",
+        "text": "<@U02AEBQRGGH> Por ahora dejamos solamente los campos de Email, teléfono y contraseña",
+        "files": [
+            {
+                "id": "F036QTSA8EB",
+                "created": 1647362361,
+                "timestamp": 1647362361,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02KN0DBT9N",
+                "editable": false,
+                "size": 171710,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F036QTSA8EB\/image.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F036QTSA8EB\/download\/image.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_64.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_80.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_360.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_480.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_160.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_720.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_800.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 533,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_960.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_960_w": 960,
+                "thumb_960_h": 639,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F036QTSA8EB-f1de7acfdf\/image_1024.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 682,
+                "original_w": 1075,
+                "original_h": 716,
+                "thumb_tiny": "AwAfADDSooooAM0UUUAFFFFAC0lLSUAMffkbCo9c0L5m75imPanMuTmkC807isOopaKQz\/\/Z",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02KN0DBT9N\/F036QTSA8EB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F036QTSA8EB-62c03e5d42",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02KN0DBT9N",
+        "display_as_bot": false,
+        "ts": "1647362368.091719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V79Ws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AEBQRGGH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Por ahora dejamos solamente los campos de Email, teléfono y contraseña"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3db5c62c-4c76-4474-8b1a-209ea574e2e3",
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    },
+    {
+        "client_msg_id": "a4fe30eb-c17c-4739-a738-c070c3af688d",
+        "type": "message",
+        "text": "Gracias! Veamos como se comportan los Leads, si no, sería cuestión quitarle Contraseña",
+        "user": "U02AEBQRGGH",
+        "ts": "1647365612.097199",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "b4ce22c79dee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2774143089857_b4ce22c79dee0633dd4d_72.png",
+            "first_name": "Omar",
+            "real_name": "Omar Escorcia",
+            "display_name": "Omar",
+            "team": "T022CTR8EER",
+            "name": "omar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias! Veamos como se comportan los Leads, si no, sería cuestión quitarle Contraseña"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    },
+    {
+        "client_msg_id": "090885d1-45bb-4470-9402-575bba213281",
+        "type": "message",
+        "text": "Implicaría mover otras prioridades dentro del backlog, como el CRM o las migraciones de los bot",
+        "user": "U02217J5895",
+        "ts": "1647372349.758499",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Implicaría mover otras prioridades dentro del backlog, como el CRM o las migraciones de los bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645709549.309159",
+        "parent_user_id": "U022UJXDF6V"
+    },
+    {
+        "client_msg_id": "4ee24a2c-82e0-4a79-b8d3-e5c4b14981a5",
+        "type": "message",
+        "text": "La respuesta es que es factible de hacer, pero aún no entra al backlog",
+        "user": "U02217J5895",
+        "ts": "1647372377.310269",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uYcQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La respuesta es que es factible de hacer, pero aún no entra al backlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645709549.309159",
+        "parent_user_id": "U022UJXDF6V"
+    },
+    {
+        "client_msg_id": "de13117e-00e0-472a-adc4-6505cf057d31",
+        "type": "message",
+        "text": "Podríamos evaluar (así sea de forma simple) algunas opciones:\n• Sería significativamente más rápido enviarse un correo electrónico? \n• Sería significativamente más rápido enviarse un SMS?\n• Sería significativamente más rápido tener algún proceso de notificaciones para Chrome?\n• Hacerlo mediante notificación de Whatsapp cuánto tiempo demoraría (retrasando otras actividades del backlog)?",
+        "user": "U022UJXDF6V",
+        "ts": "1647372594.566829",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83\/6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Podríamos evaluar (así sea de forma simple) algunas opciones:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sería significativamente más rápido enviarse un correo electrónico? "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sería significativamente más rápido enviarse un SMS?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sería significativamente más rápido tener algún proceso de notificaciones para Chrome?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hacerlo mediante notificación de Whatsapp cuánto tiempo demoraría (retrasando otras actividades del backlog)?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645709549.309159",
+        "parent_user_id": "U022UJXDF6V"
+    }
+]

@@ -1,0 +1,2 @@
+user_ticket,ticket_owner,text,ts,thread_ts,latest_reply,t_revisado,t_resuelto,t_finalizado,nuevo_req,ticket_ops,ticket_tech,urgente,Duracion_Ticket_horas
+david,jmansilla,:rotating_light::dart: Realizar integraciones Ema 2.0 Delivery gourmet (Retraso 1 semana),2022-01-24 15:27:43.010900021,2022-01-24 15:27:43.010900021,2022-02-15 13:46:40.878719091,True,False,False,False,True,False,True,526.32

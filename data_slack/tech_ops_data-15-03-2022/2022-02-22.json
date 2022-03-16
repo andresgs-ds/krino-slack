@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "3426c80c-6b4d-4e40-b9c6-15feab842c1b",
+        "type": "message",
+        "text": "en quñe quedo?",
+        "user": "U02217J5895",
+        "ts": "1645538638.543599",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en quñe quedo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645020241.519489",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "cdde0ac9-ca5b-4fe5-bf3a-0e1c63c48f07",
+        "type": "message",
+        "text": "cerrado",
+        "user": "U02217J5895",
+        "ts": "1645538721.751359",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yx8K7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cerrado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645128673.709939",
+        "parent_user_id": "U02217J5895"
+    },
+    {
+        "client_msg_id": "44c36786-5d8c-4fd1-b736-1760df54dfd6",
+        "type": "message",
+        "text": "Gracias jefe",
+        "user": "U02DBRSBBSM",
+        "ts": "1645544009.926559",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IszK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias jefe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645451920.193109",
+        "parent_user_id": "U022N5F6ZGC"
+    }
+]

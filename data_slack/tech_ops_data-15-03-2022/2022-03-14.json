@@ -1,0 +1,617 @@
+[
+    {
+        "client_msg_id": "17124487-d705-4339-b1f5-238f01cc38db",
+        "type": "message",
+        "text": "Super recibido",
+        "user": "U02TWSY0V3M",
+        "ts": "1647265962.509599",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xnzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super recibido"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646935404.173319",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "5d584214-49ea-48cb-8f1b-30dc3c90f416",
+        "type": "message",
+        "text": "Desde que Berta les pregunta el nombre al usuario. FAQ 3001",
+        "user": "U02TWSY0V3M",
+        "ts": "1647268127.226289",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Desde que Berta les pregunta el nombre al usuario. FAQ 3001"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646935164.205089",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "d8091b0f-8b34-4246-a7ad-05df9ba31e64",
+        "type": "message",
+        "text": ":rotating_light: :robot_face: Estas conversaciones no aparecen en el historial de Krino o de Improvebot: 212218, 182616, 184865, 212064, 185405, 182617, 195117, 186437, 215969, 181968, 181534, 182389, 215982, 186666, 184864, 215972, 212227, 182867, 185588, 215996, 186577, 183715, 218301\n\nTampoco tienen estado asociado",
+        "user": "U02TWSY0V3M",
+        "ts": "1647268167.900949",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TWSY0V3M",
+            "ts": "1647268176.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "499",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Estas conversaciones no aparecen en el historial de Krino o de Improvebot: 212218, 182616, 184865, 212064, 185405, 182617, 195117, 186437, 215969, 181968, 181534, 182389, 215982, 186666, 184864, 215972, 212227, 182867, 185588, 215996, 186577, 183715, 218301\n\nTampoco tienen estado asociado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647268167.900949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1647273296.011209",
+        "reply_users": [
+            "U02KN0DBT9N",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1647272772.632769"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1647273296.011209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54e01115-bac3-49e0-8b82-a168b89bcd27",
+        "type": "message",
+        "text": "Hola Paula, no se están mostrando porque no han pasado del mensaje inicial y el bot aún no ha recolectado información de valor.",
+        "user": "U02KN0DBT9N",
+        "ts": "1647272772.632769",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "4f98233aaeb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2763968238548_4f98233aaeb615b02b0d_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Diego Carrero",
+            "display_name": "Juan Diego Carrero",
+            "team": "T022CTR8EER",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCkbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Paula, no se están mostrando porque no han pasado del mensaje inicial y el bot aún no ha recolectado información de valor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647268167.900949",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "3cef14db-1017-49be-9571-504344a19abf",
+        "type": "message",
+        "text": "Perfecto.\n\nGracias juan.\n\nPregunta.\nSe puede crear algún estado que nos permita ver esto, como _sin iniciar_ o algo así",
+        "user": "U02TWSY0V3M",
+        "ts": "1647273296.011209",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02TWSY0V3M",
+            "ts": "1647273326.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8r+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfecto.\n\nGracias juan.\n\nPregunta.\nSe puede crear algún estado que nos permita ver esto, como "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sin iniciar",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " o algo así"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647268167.900949",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "24ca9936-3dd1-478d-a03a-7ee678686f4f",
+        "type": "message",
+        "text": "<@U02217J5895> <@U02G57HLWHK> <@U022N5F6ZGC> team podemos tener una respuesta de esto please?",
+        "user": "U022UJXDF6V",
+        "ts": "1647283257.571859",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4aAHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02G57HLWHK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022N5F6ZGC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " team podemos tener una respuesta de esto please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645709549.309159",
+        "parent_user_id": "U022UJXDF6V"
+    },
+    {
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3: *Kriator\/Registro:* \nEliminar los espacios de Nombre, Nombre de empresa y Contraseña.",
+        "files": [
+            {
+                "id": "F037CHCRWSD",
+                "created": 1647285042,
+                "timestamp": 1647285042,
+                "name": "Captura de Pantalla 2022-03-14 a la(s) 13.10.39.png",
+                "title": "Captura de Pantalla 2022-03-14 a la(s) 13.10.39.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02AEBQRGGH",
+                "editable": false,
+                "size": 147697,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037CHCRWSD\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037CHCRWSD\/download\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_64.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_80.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_360.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_360_w": 215,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_480.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_480_w": 287,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_160.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_720.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_720_w": 431,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037CHCRWSD-bc70a808c2\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39_800.png?t=xoxe-2080943286501-3248208657716-3245865711778-d291ac4c0d1cae670092fe2cf8ff98a7",
+                "thumb_800_w": 479,
+                "thumb_800_h": 800,
+                "original_w": 508,
+                "original_h": 849,
+                "thumb_tiny": "AwAwABzSOe1Jls9KU470nFAB+FLQKKAEP+eaP89aDntRznpQAtFH4UUAI4BUgkgH0qLyU6bn\/OpWGRim7fpTTFYWNQq4Ukj3p1NUEU7NIZ\/\/2Q==",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02AEBQRGGH\/F037CHCRWSD\/captura_de_pantalla_2022-03-14_a_la_s__13.10.39.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F037CHCRWSD-25ccd75489",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AEBQRGGH",
+        "display_as_bot": false,
+        "ts": "1647285057.249309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HdRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kriator\/Registro: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEliminar los espacios de Nombre, Nombre de empresa y Contraseña."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "348eda7b-ad49-437e-a8b1-f1180e90709b",
+        "thread_ts": "1647285057.249309",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1647365612.097199",
+        "reply_users": [
+            "U022N5F6ZGC",
+            "U02217J5895",
+            "U02AEBQRGGH",
+            "U02KN0DBT9N"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1647285460.851469"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1647285609.271329"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1647287735.053439"
+            },
+            {
+                "user": "U02AEBQRGGH",
+                "ts": "1647287953.790909"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1647362368.091719"
+            },
+            {
+                "user": "U02AEBQRGGH",
+                "ts": "1647365612.097199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1647365612.097199",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AEBQRGGH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fade40ee-f6df-4ae9-9893-b22bb85c11b4",
+        "type": "message",
+        "text": "Con \"eliminar los espacios\" te refieres a ¿quitarlos del formulario de registro?",
+        "user": "U022N5F6ZGC",
+        "ts": "1647285460.851469",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3V1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Con \"eliminar los espacios\" te refieres a ¿quitarlos del formulario de registro?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    },
+    {
+        "client_msg_id": "c6e82a2e-3423-410c-9a5a-45ffa8111669",
+        "type": "message",
+        "text": "<@U02AEBQRGGH>",
+        "user": "U022N5F6ZGC",
+        "ts": "1647285609.271329",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wm=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02AEBQRGGH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    },
+    {
+        "client_msg_id": "18e700e8-d6ef-46ab-a004-d12369e9fd10",
+        "type": "message",
+        "text": "Se refiere a solo dejar email y en back tendrríamos que autoasignar en empresa el mail y en nombre igual",
+        "user": "U02217J5895",
+        "ts": "1647287735.053439",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CnM6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se refiere a solo dejar email y en back tendrríamos que autoasignar en empresa el mail y en nombre igual"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    },
+    {
+        "client_msg_id": "8e6110ed-7665-4289-9545-f767e1aaa356",
+        "type": "message",
+        "text": "Justo, quitarlos del espacio de registro",
+        "user": "U02AEBQRGGH",
+        "ts": "1647287953.790909",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "b4ce22c79dee",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2774143089857_b4ce22c79dee0633dd4d_72.png",
+            "first_name": "Omar",
+            "real_name": "Omar Escorcia",
+            "display_name": "Omar",
+            "team": "T022CTR8EER",
+            "name": "omar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OacNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Justo, quitarlos del espacio de registro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647285057.249309",
+        "parent_user_id": "U02AEBQRGGH"
+    }
+]

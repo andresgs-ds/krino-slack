@@ -1,0 +1,279 @@
+user_ticket,ticket_owner,text,ts,thread_ts,latest_reply,t_revisado,t_resuelto,t_finalizado,nuevo_req,ticket_ops,ticket_tech,urgente,Duracion_Ticket_horas
+istuardo,jmansilla,:rotating_light: :robot_face: *WOM-GEO*: BOT no envío _custom_13_ en el payload al cliente. _Custom_13_ indica la compañía actual del cliente a portar (Ref. FAQ 2391),2022-01-17 13:42:20.032900094,2022-01-17 13:42:20.032900094,2022-01-17 15:50:18.042399883,True,True,True,False,False,True,True,2.13
+istuardo,istuardo,:rotating_light: :dart: *PY:* Proyectos con múltiples zonas no se muestran. Revisar API y Parser,2022-01-17 14:16:06.036600113,2022-01-17 14:16:06.036600113,2022-01-20 14:03:45.075900078,True,True,True,False,True,False,True,71.79
+istuardo,istuardo,:rotating_light: :dart: *PY:* En algunos casos no se envía la cotización final. Revisar antes de la reunión de las 13:00 CL,2022-01-17 14:16:46.037300110,2022-01-17 14:16:46.037300110,2022-01-17 18:06:13.044300079,True,True,True,False,True,False,True,3.82
+paula,istuardo,":rotating_light: :dart:Ajustar base de datos de los usuarios en la parte de los formularios para que estos puedan recibir sus formularios. Porfa incluir también los números de las chicas de salud mental.
+ 181967, 178995, 184973",2022-01-17 14:51:17.040299892,2022-01-17 14:51:17.040299892,2022-01-25 13:48:01.004400015,True,True,True,False,True,False,True,190.95
+paula,,":rotating_light: :dart:Ajustar base de datos de los usuarios en la parte de los formularios para que estos puedan recibir sus formularios. Porfa incluir también los números de las chicas de salud mental.
+ 181967, 178995, 184973",2022-01-17 14:51:17.040299892,2022-01-17 14:51:17.040299892,2022-01-25 13:48:01.004400015,True,True,True,False,True,False,True,190.95
+paula,jmansilla,:rotating_light: :robot_face:Enviar hoy a las 3:00 pm chile el  mensaje de expectativa a la lista de usuarios de SII Group. El template ya se encuentra aprobado en Twilio.,2022-01-17 14:54:56.041199923,2022-01-17 14:54:56.041199923,2022-01-17 19:01:33.045099974,True,True,True,False,False,True,True,4.11
+andresg,juan,":writing_hand::robot_face: Integrar Mixpanel/Hotjar/Heap/Google Analytics en la nueva plataforma, a continuación dejo documento con los códigos para cada implementación, de necesitar alguna otra información o acceso a las respectivas plataformas enviarme un mensaje y lo solucionamos rapido. Muchas gracias team<https://docs.google.com/document/d/1hCUkd-8VB5mVa7-P-_8Hlo6PBlVuMW3xOblw2y8OAY8/edit?usp=sharing>",2022-01-18 05:22:00.048399925,2022-01-18 05:22:00.048399925,2022-01-24 20:41:39.013600111,True,True,True,True,False,True,False,159.33
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*IFRAME*_ : Terminar y probar iframe con nuevo motor.,2022-01-18 13:09:05.049700022,2022-01-18 13:09:05.049700022,2022-01-31 14:43:15.390829086,True,True,True,False,True,True,True,313.57
+andresg,jmansilla,":writing_hand::robot_face: Probar en la plataforma si es posible integrar los dashboard de Metabase, les dejo los links de incrustación:
+• Link Publico: <http://ec2-52-87-221-38.compute-1.amazonaws.com/public/dashboard/f8027f5c-8cc2-424e-adc7-178b3b91324b>
+• Incrustación Publica: 
+&lt;iframe
+    src=""<http://ec2-52-87-221-38.compute-1.amazonaws.com/public/dashboard/f8027f5c-8cc2-424e-adc7-178b3b91324b>""
+    frameborder=""0""
+    width=""800""
+    height=""600""
+    allowtransparency
+&gt;&lt;/iframe&gt;",2022-01-18 15:25:03.053699970,2022-01-18 15:25:03.053699970,2022-01-25 14:29:36.006500006,True,True,True,True,False,True,False,167.08
+andresg,juan,":writing_hand::robot_face: Probar en la plataforma si es posible integrar los dashboard de Metabase, les dejo los links de incrustación:
+• Link Publico: <http://ec2-52-87-221-38.compute-1.amazonaws.com/public/dashboard/f8027f5c-8cc2-424e-adc7-178b3b91324b>
+• Incrustación Publica: 
+&lt;iframe
+    src=""<http://ec2-52-87-221-38.compute-1.amazonaws.com/public/dashboard/f8027f5c-8cc2-424e-adc7-178b3b91324b>""
+    frameborder=""0""
+    width=""800""
+    height=""600""
+    allowtransparency
+&gt;&lt;/iframe&gt;",2022-01-18 15:25:03.053699970,2022-01-18 15:25:03.053699970,2022-01-25 14:29:36.006500006,True,True,True,True,False,True,False,167.08
+jmansilla,juan,:writing_hand: :robot_face: Nuevo requerimiento Wizard acepto de términos y condiciones,2022-01-18 16:14:55.055200100,2022-01-18 16:14:55.055200100,2022-01-25 14:29:36.006299973,True,True,True,True,False,True,False,166.24
+david,juan,":rotating_light::robot_face: *Kriator*:  Al conectar las faqs en la App no se ve reflejado a la primera en el bot, hay que re conectar y reiniciar la conversación para que se conecten (Wiu wiu urgente)",2022-01-19 14:28:42.057199955,2022-01-19 14:28:42.057199955,2022-02-07 15:49:05.435678959,True,True,True,False,False,True,True,457.34
+david,nsanhueza,":rotating_light::robot_face: *Kriator*:  Al conectar las faqs en la App no se ve reflejado a la primera en el bot, hay que re conectar y reiniciar la conversación para que se conecten (Wiu wiu urgente)",2022-01-19 14:28:42.057199955,2022-01-19 14:28:42.057199955,2022-02-07 15:49:05.435678959,True,True,True,False,False,True,True,457.34
+david,andresg,:rotating_light: :dart: Base de datos PY: Exportar en un excel la base de datos de todas las variables que se recopilan en el bot por usuario.,2022-01-19 14:38:22.058500051,2022-01-19 14:38:22.058500051,2022-01-24 14:30:28.009599924,True,True,True,False,True,False,True,119.87
+david,andresg,:rotating_light: :dart: Base de datos PY: Exportar en un excel la base de datos de todas las variables que se recopilan en el bot por usuario.,2022-01-19 14:38:22.058500051,2022-01-19 14:38:22.058500051,2022-01-24 14:30:28.009599924,True,True,True,False,True,False,True,119.87
+david,istuardo,:rotating_light: :dart: Agregar el bot de delivery a la url <http://www.olivadelivery.cl|www.olivadelivery.cl>,2022-01-19 15:31:28.059000015,2022-01-19 15:31:28.059000015,2022-02-03 15:14:13.134908915,True,True,True,False,True,False,True,359.71
+paula,juan,:rotating_light::robot_face:  Volvió a presentar fallas  la opción de que poder escribirle a los usuarios siempre. Nuevamente aparece el botón de reactivación y no permite que las chicas le puedan escribir al usuario.,2022-01-19 16:51:49.060699940,2022-01-19 16:51:49.060699940,2022-01-19 17:49:45.064599990,True,True,True,False,False,True,True,0.97
+paula,nsanhueza,:rotating_light::robot_face: Ajustar template automático que se envía al oprimir el botón  de reactivación en el live chat. (Template ya pedido),2022-01-19 16:57:51.062400103,2022-01-19 16:57:51.062400103,2022-01-19 19:26:05.067100047,True,True,True,False,False,True,True,2.47
+paula,jmansilla,:rotating_light::robot_face: Cargar los formularios en  la información que se puede ver del usuario en el live chat.,2022-01-19 16:58:49.063400029,2022-01-19 16:58:49.063400029,2022-01-20 14:07:04.076699972,False,True,True,False,False,True,True,21.14
+paula,jmansilla,:robot_face: Enviar mensaje de lanzamiento de live chat por WhatsApp a los usuarios que se han registrado con Berta. El día 20 de enero de 2022 a mas tardar a las 3:00 pm hora chile,2022-01-19 22:00:22.068799973,2022-01-19 22:00:22.068799973,2022-01-20 15:54:13.083100080,True,True,True,False,False,True,False,17.9
+paula,jmansilla,:rotating_light::robot_face: la plataforma de Improve Bot no funciona aparece error 500.,2022-01-19 22:04:17.069400072,2022-01-19 22:04:17.069400072,2022-01-20 00:57:10.072599888,False,True,True,False,False,True,True,2.88
+vprieto,,:robot_face: No me funciona el nuevo login (usuario <mailto:vprieto@krino.cl|vprieto@krino.cl>),2022-01-19 23:08:58.071000099,2022-01-19 23:08:58.071000099,2022-01-21 14:10:16.101099968,False,True,True,False,False,True,False,39.02
+david,jmansilla,":rotating_light: :robot_face: Requerimiento geo
+No entiendo muy bien que pasa pero aquí esta la información link: <https://improvebot.krino.ai/a53641abae6d28afd5ea74dc60fcb70e0e5fd536140bed5b80260e42dcf9f3a7/200252/>",2022-01-20 01:09:24.074300051,2022-01-20 01:09:24.074300051,2022-01-24 14:28:35.009399891,True,True,True,False,False,True,True,109.32
+istuardo,istuardo,":dart: ECR : Estamos consultando este Rut, el cual nuestra API responde lo que está marcado en amarillo (no entrega mensaje que viene desde la API al chat)",2022-01-20 14:08:01.078099966,2022-01-20 14:08:01.078099966,2022-01-25 13:37:16.002199888,True,True,True,False,True,False,False,119.49
+david,istuardo,":rotating_light: :dart: Por algun motivo no estan entrando de nuevo las cotizaciones, nos e envian al correo ni entran a planok",2022-01-20 15:28:10.082200050,2022-01-20 15:28:10.082200050,2022-01-20 16:31:45.084000111,True,True,True,False,True,False,True,1.06
+david,juan,":rotating_light: :robot_face: Bug en la nueva app kriator cuando modifico un mensaje de una caja se mueve de posicion.
+El que lo vaya a tomar me avisa y me contacta para darle mas informacion.",2022-01-20 17:59:35.085700035,2022-01-20 17:59:35.085700035,2022-01-21 14:18:06.103499889,True,True,True,False,False,True,True,20.31
+paula,juan,:rotating_light::robot_face: Vuelve a aparece la opción de reactivar chat en el live chat apenas ingresa un nuevo usuario. Por lo que nuevamente no deja que se envié ningún mensaje por parte del team de salud mental.,2022-01-20 18:48:41.087599993,2022-01-20 18:48:41.087599993,2022-01-20 20:03:04.088700056,True,True,True,False,False,True,True,1.24
+istuardo,juan,:robot_face: QA Plataforma LiveChat: Error al entrar a configurar un bot,2022-01-20 21:11:32.089400053,2022-01-20 21:11:32.089400053,2022-01-20 21:36:18.093499899,False,True,True,False,False,True,False,0.41
+paula,,":dart: Desde el celular de Monica no se ha podido ingresar correctamente a la parte de login a pesar de que ingresa desde este link <http://app.krino.ai/login/old>.
+
+A darle continuar, la envía a la nueva pagina de Krino.",2022-01-20 21:51:08.095700026,2022-01-20 21:51:08.095700026,2022-01-21 00:55:29.098000050,False,True,True,False,True,False,False,3.07
+istuardo,nsanhueza,:robot_face::dart: PY: Revisar historial de conversación en correo electrónico.,2022-01-21 14:01:09.098799944,2022-01-21 14:01:09.098799944,2022-02-01 14:09:50.218259096,True,True,True,False,True,True,False,264.14
+istuardo,,:writing_hand::skin-tone-4: :dart: :robot_face: GEO: Crear CRON para reintento de envío de LEAD,2022-01-21 14:14:02.102099895,2022-01-21 14:14:02.102099895,2022-01-25 13:46:48.002799988,True,True,True,True,True,True,False,95.55
+david,istuardo,:rotating_light::dart: Erika no responde al envio a la solicitud de documentos wiuu wiuu,2022-01-21 19:38:43.104300022,2022-01-21 19:38:43.104300022,2022-01-24 13:56:57.000099897,True,True,True,False,True,False,True,66.3
+istuardo,istuardo,:dart: Erika: Cambio de palabra _*ANTIGÜEDAD*_ en la FAQ: 4469,2022-01-24 14:04:00.000999928,2022-01-24 14:04:00.000999928,2022-01-24 14:18:54.008300066,True,True,True,False,True,False,False,0.25
+paula,istuardo,:writing_hand::dart:  Solicitar nuevamente el numero de Archie en Twilio,2022-01-24 14:08:39.002300024,2022-01-24 14:08:39.002300024,2022-02-04 20:46:00.991808891,True,True,True,True,True,False,False,270.62
+paula,istuardo,:rotating_light::dart: Ajustar nuevos nombres de la variables de los resultados de los formulario resueltos por los usuarios en la base de datos,2022-01-24 14:09:41.003499985,2022-01-24 14:09:41.003499985,2022-02-04 15:24:01.668569088,True,True,True,False,True,False,True,265.24
+paula,jmansilla,:writing_hand: :robot_face:  Generar reinicio de las reactivaciones automáticas desde el dÍa 6,2022-01-24 14:11:39.005100012,2022-01-24 14:11:39.005100012,2022-02-02 14:27:31.922508955,False,False,False,True,False,True,False,216.26
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*NOTIFICACIONES*_: Notificaciones de TF off no funciona.,2022-01-24 14:17:13.007299900,2022-01-24 14:17:13.007299900,2022-01-25 14:02:40.004600048,True,True,True,False,True,True,True,23.76
+david,jmansilla,:writing_hand: :dart: Integrar API en bot consorcio,2022-01-24 14:38:29.010400057,2022-01-24 14:38:29.010400057,2022-02-01 18:05:51.724318981,False,True,True,True,True,False,False,195.46
+david,jmansilla,:rotating_light::dart: Realizar integraciones Ema 2.0 Delivery gourmet (Retraso 1 semana),2022-01-24 15:27:43.010900021,2022-01-24 15:27:43.010900021,2022-02-15 13:46:40.878719091,True,False,False,False,True,False,True,526.32
+jmansilla,jmansilla,:writing_hand: :robot_face: GTD solicitó que se pueda responder más de una vez un formulario,2022-01-25 14:35:23.008199929,2022-01-25 14:35:23.008199929,2022-01-28 17:35:17.053848982,False,True,True,True,False,True,False,75.0
+jmansilla,jmansilla,:dart:  GTD reportó que no podía subir opciones por longitud,2022-01-25 14:35:50.008800030,2022-01-25 14:35:50.008800030,2022-01-28 17:35:32.064718962,False,True,True,False,True,False,False,75.0
+istuardo,istuardo,":dart: PY: Proyecto Matta Vial, Aires de Melipilla y Remanso de Machali no marcan con proyectos disponibles. Revisar API",2022-01-25 14:38:11.009900093,2022-01-25 14:38:11.009900093,2022-01-31 20:03:34.520098925,True,True,True,False,True,False,False,149.42
+istuardo,jmansilla,:writing_hand: :robot_face: Implementar tickets mediante Erika (Enviar una respuesta dinámica luego de pasadas las 24 horas),2022-01-25 14:56:16.011100054,2022-01-25 14:56:16.011100054,2022-02-07 23:34:40.242058992,True,True,False,True,False,True,False,320.64
+david,istuardo,:writing_hand: :dart: Que se puedan enviar pdfs tambien en erika,2022-01-25 17:07:30.011699915,2022-01-25 17:07:30.011699915,2022-02-10 19:46:19.566509008,True,True,False,True,True,False,False,386.65
+david,istuardo,:writing_hand: :dart: Botones de cancelar en erika para cancelar solicitudes,2022-01-25 17:08:02.012099981,2022-01-25 17:08:02.012099981,2022-01-31 14:17:49.384299040,True,True,True,True,True,False,False,141.16
+andresg,juan,":rotating_light: :robot_face: Bug Kriator: Al tener un error en alguna tarjeta de mensaje, este se mantiene en todas las que valla creando en el futuro. Permite crear la tarjeta de mensaje pero se mantiene el mensaje de error en rojo",2022-01-25 19:08:44.013799906,2022-01-25 19:08:44.013799906,2022-01-25 19:46:04.017800093,True,True,True,False,False,True,True,0.62
+andresg,juan,":rotating_light: :robot_face: Bug Kriator: Si estoy trabajando en la construccion de un bot y tengo una plantilla abierta en segundo plano para ayudarme, si hago Refresh en la pagina que estoy trabajando me abre la ultima plantilla que abri y no me mantiene en la que estaba trabajando.",2022-01-25 19:34:39.017499924,2022-01-25 19:34:39.017499924,2022-01-25 23:05:26.018899918,False,True,True,False,False,True,True,3.51
+andresg,juan,":rotating_light: :robot_face: Bug Kriator: Tengo conectado el mensaje inicial como se ve en la primera foto y si vuelvo hacia atras con la flecha que esta abajo de ""Nuevo +"" , y luego vuelvo a entrar a la plantilla no aparece el mensaje, como se ve en la segunda foto.",2022-01-25 23:47:55.020900011,2022-01-25 23:47:55.020900011,2022-01-26 19:36:07.002199888,True,True,True,False,False,True,True,19.8
+istuardo,istuardo,:rotating_light: :robot_face: WEB KRINO: Pagina caída.,2022-01-26 12:59:17.000299931,2022-01-26 12:59:17.000299931,2022-01-26 12:59:24.000400066,True,True,True,False,False,True,True,0.0
+david,jmansilla,:writing_hand: :dart::robot_face: Agregar bot bmw a facebook y whatsapp y hacer test,2022-01-26 14:32:05.001699924,2022-01-26 14:32:05.001699924,2022-01-31 14:18:19.889838934,False,True,True,True,True,True,False,119.77
+omar,juan,":rotating_light::robot_face: Bug Kriator: Al escribir la opción y dar en ""enviar"" no avanza ni se manda lo escrito.",2022-01-26 20:41:03.003400087,2022-01-26 20:41:03.003400087,2022-01-27 12:35:19.005000114,True,True,True,False,False,True,True,15.9
+paula,nsanhueza,:writing_hand::robot_face: Ajustar hora de envío cron de espera. En vez de que se envíe a las 8:00 am hora chile. Lograr que se envíe a las 11:00 am.,2022-01-27 14:18:00.006500006,2022-01-27 14:18:00.006500006,2022-01-31 18:12:17.993738890,True,True,True,True,False,True,False,99.9
+paula,,:writing_hand::robot_face: Agregar campo de numero de celular en formulario de registro en <http://app.krino.ai/sign-up>,2022-01-27 15:22:38.008699894,2022-01-27 15:22:38.008699894,2022-02-02 23:29:11.147699118,False,True,True,True,False,True,False,152.11
+andresg,juan,":rotating_light::robot_face: Bug Kriator: Al seleccionar un mensaje de una tarjeta, no deja seleccionar el mensaje completo y a su vez, se mueve toda la tarjeta.",2022-01-27 16:08:30.012599945,2022-01-27 16:08:30.012599945,2022-02-03 14:32:20.136348963,True,True,True,False,False,True,True,166.4
+paula,,":writing_hand::robot_face: Cambiar mensaje del siguiente pop up por:
+
+&gt; *Nos emociona saber que diste este primer paso!* 
+&gt; 
+&gt; En unos minutos te llegará un correo de bienvenida y los siguientes pasos que deberás tomar para crear tu BOT. 
+&gt; 
+&gt; _*Nota:*_ No olvides revisar tu carpeta de promociones para encontrar este correo. 
+<@U02PKM216TX> please revisa el mensaje a ver si estas de acuerdo",2022-01-27 17:42:58.015599966,2022-01-27 17:42:58.015599966,2022-02-02 16:37:20.932468891,True,True,True,True,False,True,False,142.91
+vprieto,jmansilla,:robot_face: Botones no dirigen al lugar correcto en landing <http://krino.ai|krino.ai> Mobile (Botones de Contacto se quedan en una pantalla negra),2022-01-27 17:49:31.017100096,2022-01-27 17:49:31.017100096,2022-02-18 14:11:40.656769037,False,True,True,False,False,True,False,524.37
+vprieto,,":dart: Botones de precios con descripción incorrecta y falta ""USD"" en el texto de ""Todos los chatbots que quieras por solo 199""",2022-01-27 17:54:34.019500017,2022-01-27 17:54:34.019500017,2022-01-28 17:49:46.166949034,False,True,True,False,True,False,False,23.92
+vprieto,jmansilla,:dart: Botón de Instagram manda esta pantalla,2022-01-27 17:55:24.020600080,2022-01-27 17:55:24.020600080,2022-01-28 17:49:34.278378963,False,True,True,False,True,False,False,23.9
+vprieto,,":robot_face:
+Cuando das click a Krino University en el Registro te manda al Log-in
+Cuando das click a Blog en el Registro te manda al Musing Jhonson
+Cuando das click a Krino University en el Log-in te manda al Musing Jhonson",2022-01-27 17:58:51.022799969,2022-01-27 17:58:51.022799969,2022-01-28 16:15:18.712959051,False,False,True,False,False,True,False,22.27
+jael,,":writing_hand::skin-tone-3: :robot_face:  
+Hello, les mando las correcciones de pag. web, cualquier cosa, estoy para apoyarlos.
+Abrazos.",2022-01-27 20:35:09.025700092,2022-01-27 20:35:09.025700092,2022-02-07 14:08:31.540648937,False,True,True,True,False,True,False,257.56
+paula,,":rotating_light::robot_face: Berta no le entiende al siguiente usuario:
+•  *ID:* 179530
+• *Numero de WhatsApp:* 56982983483
+• *ID a direccionar:* 6967 
+Envío el pantallazo de la info del usuario abajo al igual que el pantallazo del error.",2022-01-28 16:24:54.799228907,2022-01-28 16:24:54.799228907,2022-02-03 17:01:07.156039000,True,True,True,False,False,True,True,144.6
+omar,jmansilla,":writing_hand: :robot_face: :dart: Hola, podemos subir el Bot de KripTon que teníamos anteriormente en <http://krino.ai|krino.ai>, a la nueva página",2022-01-28 16:43:56.479779005,2022-01-28 16:43:56.479779005,2022-01-31 14:24:07.624878883,True,True,True,True,True,True,False,69.67
+jael,juan,":robot_face:
+Anexo cambios en la guía de usuario, se los pasé a <@U02KN0DBT9N> desde anoche, pero no sé si los vio, xq siempre me contesta y son importantes para experiencia de usuario.
+<https://docs.google.com/document/d/1Gcx2brUeEz8Aop0V1vTfQoawhKhphWyj7IqaTdM5ekc/edit?usp=sharing>",2022-01-28 19:26:55.444729090,2022-01-28 19:26:55.444729090,2022-02-11 03:08:29.860279083,True,True,True,False,False,True,False,319.69
+david,juan,:writing_hand: :robot_face: : Bug kriator estaba trabajando en la app y recargue la pagina y se pusieron unas tarjetas sobre otras,2022-01-28 20:40:09.600999117,2022-01-28 20:40:09.600999117,2022-02-03 14:51:56.714399099,True,True,True,True,False,True,False,138.2
+omar,istuardo,":rotating_light:NO FUNCIONA LA PÁGINA WEB- Team, está caida la página web, ni entrando por <http://krino.cl|krino.cl>
+<@U02217J5895> <@U022N5F6ZGC> <@U02AJP0M7L1>",2022-01-31 01:00:18.934039116,2022-01-31 01:00:18.934039116,2022-01-31 13:46:24.244968891,True,True,True,False,False,False,True,12.77
+omar,juan,":writing_hand: :robot_face: :dart:  Kriator: Al Guardar una validación de variable, las futuras configuraciones se guardan pero no se muestran en la tarjeta... Ejemplo:",2022-01-31 02:07:15.080239058,2022-01-31 02:07:15.080239058,2022-02-16 14:27:55.500588893,False,True,True,True,True,True,False,396.34
+omar,juan,":writing_hand: :robot_face: :dart:  Kriator: Al Guardar una validación de variable, las futuras configuraciones se guardan pero no se muestran en la tarjeta... Ejemplo:",2022-01-31 02:07:15.080239058,2022-01-31 02:07:15.080239058,2022-02-16 14:27:55.500588893,False,True,True,True,True,True,False,396.34
+omar,juan,:writing_hand: :robot_face: :dart:  Kriator: Cambiar la categoría Reclutamiento a Recursos Humanos,2022-01-31 03:07:44.919799089,2022-01-31 03:07:44.919799089,2022-02-08 14:54:37.562938929,False,True,True,True,True,True,False,203.78
+jmansilla,nsanhueza,:rotating_light: :robot_face:  Nuevo motor no guarda las respuestas de botones en la tabla message,2022-01-31 14:07:00.980978966,2022-01-31 14:07:00.980978966,2022-02-01 14:29:26.005949020,True,True,True,False,False,True,True,24.37
+istuardo,,:rotating_light: :dart: _IFRAME_ : Bot no se muestra en webpage Krino,2022-01-31 14:09:06.608268976,2022-01-31 14:09:06.608268976,2022-02-04 15:53:07.791348934,True,True,True,False,True,False,True,97.73
+omar,jmansilla,:writing_hand: :robot_face: :dart: Página Web: Los botones están desalíneados...,2022-01-31 15:41:36.741919041,2022-01-31 15:41:36.741919041,2022-02-07 14:09:33.066729069,False,True,True,True,True,True,False,166.47
+,jmansilla,This message was deleted.,2022-01-31 15:42:22.677758932,2022-01-31 15:42:22.677758932,2022-01-31 16:54:23.410109043,False,False,False,False,False,False,False,1.2
+vprieto,istuardo,:rotating_light: :robot_face: : Bug kriator -&gt;  Tenemos un problema con el eiframe en Kriator no muestra el bot,2022-01-31 17:12:47.611928940,2022-01-31 17:12:47.611928940,2022-02-02 18:44:25.603589058,True,True,True,False,False,True,True,49.53
+jael,,":robot_face:
+
+Desde temprano no podemos entrar a strapi para modificar blog.",2022-01-31 19:42:18.527769088,2022-01-31 19:42:18.527769088,2022-01-31 22:59:43.761069059,True,True,True,False,False,True,False,3.29
+david,,:rotating_light: :robot_face:: Bug Kriator no puedo eliminar lineas en Kriator al darle click en la X,2022-01-31 23:50:05.210398912,2022-01-31 23:50:05.210398912,2022-02-03 14:58:48.896099091,False,False,True,False,False,True,True,63.15
+jael,jmansilla,":robot_face:
+Team, puden dar de alta a <@U030XTM7MMY> en el strapi please, su correo es <mailto:sofiap@krino.cl|sofiap@krino.cl>
+saludos desde Mx!",2022-02-01 14:02:21.671199083,2022-02-01 14:02:21.671199083,2022-02-01 17:06:41.067759037,False,True,True,False,False,True,False,3.07
+istuardo,istuardo,:rotating_light: :dart: _PY_ : Incidencias detectadas en el Chatbot,2022-02-01 14:24:34.190218925,2022-02-01 14:24:34.190218925,2022-02-02 14:22:22.478919029,True,True,True,False,True,False,True,23.96
+istuardo,,":rotating_light: :dart: _Iframe_ : Variable Javascript: _*gTBrmIzuvr ,*_ ocasiona problemas en <http://app.krino.ai|app.krino.ai> y <http://krino.ai|krino.ai>",2022-02-01 14:47:32.888719082,2022-02-01 14:47:32.888719082,2022-02-04 14:39:05.379549026,True,True,True,False,True,False,True,71.86
+jmansilla,istuardo,:writing_hand: :robot_face: :dart:  Necesitamos sub dominio dev para la pagina para no afectar los regisros en hotjar y el resto de metricas,2022-02-01 19:17:09.421768904,2022-02-01 19:17:09.421768904,2022-02-01 22:25:22.519078970,True,True,True,True,True,True,False,3.14
+jmansilla,istuardo,:writing_hand: :dart:  Powered by krino en Iframe debiese ser una etiqueta &lt;a&gt; que redireccione a la pagina web (es publicidad gratis),2022-02-01 19:27:38.963509083,2022-02-01 19:27:38.963509083,2022-02-07 21:12:42.424248934,True,True,True,True,True,False,False,145.75
+paula,jmansilla,":rotating_light::dart:el 3 de febrero a las 6:00 pm chile enviar a los siguientes usuarios que están en piloto a la FAQ de cierre de piloto 10860.
+
+• 200268 (<tel:+56976679445|+56976679445>) 
+• 200280 (<tel:+56968480965|+56968480965>)
+• 200269 (<tel:+56930814557|+56930814557>)
+• 200271  (<tel:+56958583224|+56958583224>) ",2022-02-02 16:09:51.287539005,2022-02-02 16:09:51.287539005,2022-02-03 21:21:14.074868917,True,True,True,False,True,False,True,29.19
+omar,,":writing_hand: :dart: Kriator: <@U02KN0DBT9N> Jefe, podemos incluir en la categoría de ""recursos Humanos"" la plantilla de reclutamiento, y eliminar la categoría de ""reclutamiento""?",2022-02-02 16:42:18.079709053,2022-02-02 16:42:18.079709053,2022-02-08 14:52:11.518979073,True,True,True,True,True,False,False,142.16
+vprieto,juan,:writing_hand::skin-tone-3: :robot_face: Agregar logo de Krino en pestaña de <http://krino.ai|krino.ai>,2022-02-02 17:52:30.876029015,2022-02-02 17:52:30.876029015,2022-02-16 16:16:29.021459103,True,True,True,True,False,True,False,334.4
+paula,istuardo,:writing_hand::skin-tone-3::robot_face:Cambiar el primer mensaje que le da Berta a los usuarios que se registran por primera ves en el formulario de inscripción. (_Valga la redundancia)_ por el template que se ve adjunto en la imagen.,2022-02-02 18:13:16.886348963,2022-02-02 18:13:16.886348963,2022-02-07 14:20:57.695229053,True,True,True,True,False,True,False,116.13
+omar,nsanhueza,":writing_hand: :dart: Data: Team, tenemos una tabla de usuarios para kriator filtrando el código de perfil: *Tbl Ibot Users + Tbl Ibot Users* 
+```SELECT ""public"".""tbl_ibot_users"".""id"" AS ""id"", ""public"".""tbl_ibot_users"".""idreg_fk_perfil"" AS ""idreg_fk_perfil"", ""public"".""tbl_ibot_users"".""idreg_fk_customer"" AS ""idreg_fk_customer"", ""public"".""tbl_ibot_users"".""user_name"" AS ""user_name"", ""public"".""tbl_ibot_users"".""name"" AS ""name"", ""public"".""tbl_ibot_users"".""mood"" AS ""mood"", ""public"".""tbl_ibot_users"".""mobile"" AS ""mobile"", ""public"".""tbl_ibot_users"".""home"" AS ""home"", ""public"".""tbl_ibot_users"".""office"" AS ""office"", ""public"".""tbl_ibot_users"".""about_me"" AS ""about_me"", ""public"".""tbl_ibot_users"".""country_region"" AS ""country_region"", ""public"".""tbl_ibot_users"".""city"" AS ""city"", ""public"".""tbl_ibot_users"".""comuna"" AS ""comuna"", ""public"".""tbl_ibot_users"".""website"" AS ""website"", ""public"".""tbl_ibot_users"".""gender"" AS ""gender"", ""public"".""tbl_ibot_users"".""birthdate"" AS ""birthdate"", ""public"".""tbl_ibot_users"".""password"" AS ""password"", ""public"".""tbl_ibot_users"".""language"" AS ""language"", ""public"".""tbl_ibot_users"".""password_v2"" AS ""password_v2"", ""public"".""tbl_ibot_users"".""first_time"" AS ""first_time"", ""public"".""tbl_ibot_users"".""tutorial"" AS ""tutorial"", ""public"".""tbl_ibot_users"".""account_sid"" AS ""account_sid"", ""public"".""tbl_ibot_users"".""auth_token"" AS ""auth_token"", ""public"".""tbl_ibot_users"".""ghost_user"" AS ""ghost_user"", ""public"".""tbl_ibot_users"".""empresa"" AS ""empresa"", ""public"".""tbl_ibot_users"".""photo"" AS ""photo"", ""public"".""tbl_ibot_users"".""licencia"" AS ""licencia"", ""public"".""tbl_ibot_users"".""user_mail"" AS ""user_mail"", ""public"".""tbl_ibot_users"".""user_mail_gmail"" AS ""user_mail_gmail"", ""public"".""tbl_ibot_users"".""consentimiento"" AS ""consentimiento"", ""public"".""tbl_ibot_users"".""fecha_con"" AS ""fecha_con"", ""public"".""tbl_ibot_users"".""active"" AS ""active"", ""public"".""tbl_ibot_users"".""audit_fec_first_time"" AS ""audit_fec_first_time"", ""public"".""tbl_ibot_users"".""audit_log_ins"" AS ""audit_log_ins"", ""public"".""tbl_ibot_users"".""audit_fec_ins"" AS ""audit_fec_ins"", ""public"".""tbl_ibot_users"".""audit_log_udp"" AS ""audit_log_udp"", ""public"".""tbl_ibot_users"".""audit_fec_udp"" AS ""audit_fec_udp"", ""public"".""tbl_ibot_users"".""landing_page"" AS ""landing_page""
+FROM ""public"".""tbl_ibot_users""
+WHERE ""public"".""tbl_ibot_users"".""idreg_fk_perfil"" = 4
+ORDER BY ""public"".""tbl_ibot_users"".""fecha_con"" DESC
+LIMIT 1048575```
+Podemos dejar que solo sea tabla para kriator, no sea reutlizable ni tenga registros de algo más? (No con filtros, poder tener una tabla en específico para kriator/usuarios)?",2022-02-02 19:36:38.243329048,2022-02-02 19:36:38.243329048,2022-02-14 14:33:48.617659092,True,True,True,True,True,False,False,282.95
+david,istuardo,:writing_hand: :dart: PY: Eliminar botones de rango de precios de proyectos inmobiliarios.,2022-02-02 20:48:58.120619059,2022-02-02 20:48:58.120619059,2022-02-14 16:08:04.961409092,True,True,True,True,True,False,False,283.32
+david,istuardo,:writing_hand: :dart:: PY: Dar opción de mostrar otro proyecto si hay disponibilidad y el cliente lo desea ver.,2022-02-02 20:49:37.692039013,2022-02-02 20:49:37.692039013,2022-02-10 15:04:09.059869051,True,True,True,True,True,False,False,186.24
+david,istuardo,:writing_hand: :dart:: PY: Tener la posibilidad de silenciar el sonido que genera el chat.,2022-02-02 20:50:22.423969030,2022-02-02 20:50:22.423969030,2022-02-09 14:30:18.050889015,True,True,True,True,True,False,False,161.67
+vprieto,,:writing_hand::skin-tone-3: :robot_face: Crear iframe responsivo a canal (Whatsapp y Facebook) para poder ver como se verá un Bot en los diferentes canales conforme a las definiciones de cada uno de ellos.,2022-02-02 22:30:54.464668989,2022-02-02 22:30:54.464668989,2022-02-03 15:05:15.590379000,False,False,False,True,False,True,False,16.57
+vprieto,andresg,":writing_hand::skin-tone-3: :robot_face: :dart: Crear Plantilla/Categoría en Kriator que ya esté conectada con alguna integración (PlanOk, HCMFront, etc) y que esta Plantilla/Categoría sólo esté disponible para un grupo específico de usuarios que podamos entregar accesos.",2022-02-03 15:17:33.015378952,2022-02-03 15:17:33.015378952,2022-02-14 14:39:37.384169102,False,False,False,True,True,True,False,263.37
+istuardo,istuardo,:rotating_light: :robot_face: :dart:  _*GTD*_: Cambiar la fecha de cierre de los formularios de _Oportunidades de impacto_. Nueva fecha que debe ser: 06/03/2022 23:59. Se solicita de forma urgente.,2022-02-07 13:54:52.435848951,2022-02-07 13:54:52.435848951,2022-02-07 14:03:09.494478941,True,True,True,False,True,True,True,0.14
+paula,,":rotating_light::robot_face: *Live Chat:* 
+Aparecen y desaparecen los chats. En la parte de chats en espera.
+
+*Chat Juan*. Desapareció a las 12:04 pm hora Colombia. Y volvió a aparecer a las 12:37",2022-02-07 17:44:05.700918913,2022-02-07 17:44:05.700918913,2022-02-09 14:12:45.391709089,True,True,True,False,False,True,True,44.48
+paula,juan,":rotating_light::robot_face: *Live Chat:*
+No esta sonando las notificaciones cuando un nuevo usuario ingresa a la parte de chats en espera.",2022-02-07 17:44:39.852689028,2022-02-07 17:44:39.852689028,2022-02-07 21:36:27.683279037,True,True,True,False,False,True,True,3.86
+paula,juan,":rotating_light::robot_face: *Live Chat:*
+La hora y día de los chats están desconfiguradas. No aparece la fecha de del día de hoy una vez ingresan al apartado de chats en espera.",2022-02-07 17:46:30.622148991,2022-02-07 17:46:30.622148991,2022-02-07 22:00:39.986829042,True,True,True,False,False,True,True,4.24
+paula,,":writing_hand::skin-tone-3::robot_face: *Solicitud de usuario:* 
+• Ajustar la hora en la que Berta esta haciendo sus reactivaciones automáticas. en el cron de reactivación.  *Hacer las reactivaciones (del cron de reactivación) después de las 10:00 am.* Actualmente se las esta haciendo en el horario que se ve en la imagen adjunta. 
+• *ID:* 183030
+• *WhatsApp:* <tel:+56966573978|+56 9 6657 3978>",2022-02-07 18:43:14.373878956,2022-02-07 18:43:14.373878956,2022-02-14 14:40:04.051678896,False,True,True,True,False,True,False,163.95
+paula,istuardo,":rotating_light::robot_face: La siguiente psicologa no puede ingresar al Live chat desde su pc. Envío sus credenciales:
+
+• Empresa: Completamente
+• Usiario:danielaz
+• pass: completamente
+",2022-02-07 19:37:23.303899050,2022-02-07 19:37:23.303899050,2022-02-07 19:49:16.353029013,True,True,True,False,False,True,True,0.2
+paula,juan,":writing_hand::skin-tone-3: :robot_face: Ajustar el responsive en versión celular del live chat.
+
+Se cortan las palabras del mensaje, de manera que no se puede entender tan facilmente el mismo.
+
+Gracias!",2022-02-07 19:52:29.612098932,2022-02-07 19:52:29.612098932,2022-02-09 13:51:16.313579082,False,True,True,True,False,True,False,41.98
+jmansilla,nsanhueza,":robot_face:  Campañas no tiene seguimiento a las activaciones enviadas, falta implementar call back y estado envio mensaje",2022-02-07 20:46:31.810348988,2022-02-07 20:46:31.810348988,2022-02-21 14:32:04.362679005,True,True,False,False,False,True,False,329.76
+istuardo,david,:writing_hand::skin-tone-4: :dart: _*Delivery Gourmet*_: Agregar btnLiveChat al flujo,2022-02-08 14:33:33.120868921,2022-02-08 14:33:33.120868921,2022-02-14 14:43:36.978629112,False,True,True,True,True,False,False,144.17
+istuardo,istuardo,:writing_hand::skin-tone-4: :dart::robot_face: _*ImproveBot:*_ Agregar estado de conexión (LiveChat),2022-02-08 14:37:12.270998955,2022-02-08 14:37:12.270998955,2022-02-16 14:33:04.851368904,False,False,False,True,True,True,False,191.93
+istuardo,jmansilla,:writing_hand::skin-tone-4:  :robot_face: :dart:  _*ImproveBot*_: Agregar https a <http://app.krino.ai|app.krino.ai>,2022-02-08 14:54:43.426738977,2022-02-08 14:54:43.426738977,2022-02-14 14:46:17.676028967,False,True,True,True,True,True,False,143.86
+istuardo,istuardo,:writing_hand::skin-tone-4:  :robot_face: :dart:  _*ImproveBot*_: Agregar https a <http://app.krino.ai|app.krino.ai>,2022-02-08 14:54:43.426738977,2022-02-08 14:54:43.426738977,2022-02-14 14:46:17.676028967,False,True,True,True,True,True,False,143.86
+omar,juan,:rotating_light: :robot_face:  Landing: El PopUP de registro no te lleva a ningún lado,2022-02-08 14:57:47.741338968,2022-02-08 14:57:47.741338968,2022-02-14 14:48:14.173578978,False,False,True,False,False,True,True,143.84
+juan,nsanhueza,":rotating_light: :robot_face:live-chat no está funcionando ni en whastApp ni en Web.
+el pedir hablar con un ejecutivo no se envía el mensaje de ""un ejecutivo te contactará"" y no aparece en los chats en espera",2022-02-08 16:32:27.651679039,2022-02-08 16:32:27.651679039,2022-02-08 18:03:22.218449116,True,True,True,False,False,True,True,1.52
+istuardo,istuardo,:writing_hand::skin-tone-4:  :dart: I_*mproveBot - Iframe Web:*_ Ajustar color del texto dependiendo del color del botón,2022-02-08 19:12:03.142229080,2022-02-08 19:12:03.142229080,2022-02-08 19:22:46.464488983,True,True,True,True,True,False,False,0.18
+istuardo,jmansilla,":rotating_light: :robot_face: :dart: _*GTD*_: Usuario participó en torneo anterior, tanto como usuario como calificador, pero el usuario no puede volver a ingresar a esta nueva postulación",2022-02-08 19:14:56.385118961,2022-02-08 19:14:56.385118961,2022-02-10 14:45:53.488678932,True,True,True,False,True,True,True,43.52
+istuardo,istuardo,":rotating_light: :robot_face: :dart: _*GTD*_: Usuario participó en torneo anterior, tanto como usuario como calificador, pero el usuario no puede volver a ingresar a esta nueva postulación",2022-02-08 19:14:56.385118961,2022-02-08 19:14:56.385118961,2022-02-10 14:45:53.488678932,True,True,True,False,True,True,True,43.52
+aidnes,,:money_with_wings: :robot_face: :dart:: Llenar formulario de funcionalidades de herramienta para poder crear matriz comercial de capacidad Krino. Este doc debe estar completo por tech y ops antes del cierre del día - <https://docs.google.com/spreadsheets/d/1399VNtBQYM88GbQiqJnZOMdB55vxQEzIRqugVqNwHQg/edit?usp=sharing|Link de Documento>,2022-02-08 22:05:42.519649029,2022-02-08 22:05:42.519649029,2022-02-16 14:36:25.909898996,True,True,True,False,True,True,False,184.51
+istuardo,jmansilla,:rotating_light: :robot_face: :dart: _*IMPROVEBOT LIVE CHAT*_: Boton LiveChat no se muestra en bot DG. FAQ 11279,2022-02-09 03:20:02.468868971,2022-02-09 03:20:02.468868971,2022-02-10 14:47:13.802448988,True,True,True,False,True,True,True,35.45
+istuardo,istuardo,:raised_hands::skin-tone-4: :dart: _*IMPROVEBOT DOCUMENTACIÓN*_: Documentar usos de la API custom que está fuera de IMPROVEBOT,2022-02-09 13:51:31.957729101,2022-02-09 13:51:31.957729101,2022-02-09 13:52:34.684618950,True,True,True,False,True,False,False,0.02
+vprieto,,":money_with_wings::writing_hand::skin-tone-4::robot_face: Factibilidad para BMW:
+
+El cliente necesita centralizar en una formato online, sencillo y manejable a los candidatos que hayan aplicado a sus vacantes (exportar, ordenar, agrupar) y después poderles enviar campañas de cierre, continuación, etc... (campaña mediante Whatsapp o email).",2022-02-09 23:18:01.487798929,2022-02-09 23:18:01.487798929,2022-02-16 16:19:35.713778973,False,True,True,True,False,True,False,161.03
+jael,jmansilla,":rotating_light::robot_face: <http://Krino.ai|Krino.ai> marca ésto, solo funciona la de <http://dev.krino.ai|dev.krino.ai>",2022-02-10 19:06:17.999339104,2022-02-10 19:06:17.999339104,2022-02-14 14:58:10.932239056,False,True,True,False,False,True,True,91.86
+david,nsanhueza,:rotating_light: :robot_face: no esta funcionando la toma de variables en kriator,2022-02-10 22:20:59.523958920,2022-02-10 22:20:59.523958920,2022-02-11 15:15:48.863289118,True,True,True,False,False,True,True,16.91
+paula,nsanhueza,":rotating_light::robot_face: Agregar la imagen adjunta en link al template de twilio nueva_imagen_berta (Esto es urgente ya que debemos enviar este template hoy)
+
+El template ya esta pedido y aprobado.
+
+Gracias!",2022-02-11 16:18:55.999898911,2022-02-11 16:18:55.999898911,2022-02-14 13:40:14.262368916,True,True,True,False,False,True,True,69.36
+paula,nsanhueza,":writing_hand::skin-tone-3::robot_face: Enviar template de lanzamiento de nueva imagen de Berta a los usuarios de SII Group entre las 3:00 pm a 5:00 pm chile
+• _Nombre del template:_ nueva_imagen_berta
+• _Estado del template:_ Aprobado
+Lista de la Query de los usuarios a los cuales hay que enviarle el template. Esta <https://docs.google.com/spreadsheets/d/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk/edit?usp=sharing|aquí>",2022-02-11 16:21:12.383259058,2022-02-11 16:21:12.383259058,2022-02-11 20:34:09.296458960,True,True,True,True,False,True,False,4.22
+paula,,:writing_hand::skin-tone-3::robot_face: Poder que las imágenes que se cargan aparezcan primero que el Botón y no después de estas.,2022-02-11 18:50:30.276329041,2022-02-11 18:50:30.276329041,2022-02-14 14:59:29.261498928,False,False,False,True,False,True,False,68.15
+istuardo,istuardo,:dart: *_Iframe_:* Arreglar estilos en Iframe,2022-02-14 14:45:37.432109118,2022-02-14 14:45:37.432109118,2022-02-16 14:04:26.830919027,True,True,True,False,True,False,False,47.31
+paula,nsanhueza,":writing_hand::skin-tone-3::robot_face: Cuando se cargan las imágenes en Improvebot, no se están guardando. De manera que cuando se hacen pruebas aparece el mensaje pero sin la Imagen. A si se haya cargado varias veces",2022-02-14 14:57:09.720839024,2022-02-14 14:57:09.720839024,2022-02-25 14:15:55.343328953,True,True,True,True,False,True,False,263.31
+paula,,":writing_hand::skin-tone-3::robot_face: El siguiente usuario quedo en Loop _""Ups..No te entendí"" . Please sacarla del Loop_ :pray::skin-tone-3:
+• ID: 184973
+• WhatsApp: <tel:+5212224260345|+5212224260345>
+• FAQ en la que se quedó: 4435
+",2022-02-14 16:34:45.619098902,2022-02-14 16:34:45.619098902,2022-02-15 21:37:16.322948933,False,True,True,True,False,True,False,29.04
+paula,,":writing_hand::skin-tone-3::robot_face: Enviar template feliz día de san valentin de Berta a los usuarios de SII Group entre las 7:00 pm a 8:00 pm chile
+• _Nombre del template:_ san_valentin_berta
+• _Estado del template:_ Aprobado
+Lista de la Query de los usuarios a los cuales hay que enviarle el template. Esta <https://docs.google.com/spreadsheets/d/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk/edit?usp=sharing|aquí>",2022-02-14 21:27:38.979459047,2022-02-14 21:27:38.979459047,2022-02-14 22:34:40.471549034,False,True,True,True,False,True,False,1.12
+paula,,":rotating_light::robot_face: El siguiente usuario de SII Group esta en Loop _""ups...no te entendí""_
+• ID: 179530
+• Usuario: Vero 
+• WhatsApp: 56982983483
+• FAQ error: 4435
+",2022-02-15 17:49:10.312438965,2022-02-15 17:49:10.312438965,2022-02-15 21:37:09.461678982,False,True,True,False,False,True,True,3.8
+paula,istuardo,":writing_hand::skin-tone-3: :robot_face: Cambiar nuevamente, dado a que volvió a aparecer el anterior,  el mensaje que reciben los usuarios nuevo una vez este termine el proceso de inscripción en el formulario por el siguiente template <https://www.twilio.com/console/sms/whatsapp/templates/HTc3c832de39d3d7667f104723b6659d08|mensaje_inscripcion_nuevo_usuario_berta>
+• Estado template: Aprobado ",2022-02-15 19:01:50.296049118,2022-02-15 19:01:50.296049118,2022-02-17 15:01:52.413769007,True,True,True,True,False,True,False,44.0
+paula,istuardo,":writing_hand::skin-tone-3::robot_face: Enviar template feliz día de invitación al Webinar de Berta a los usuarios de SII Group entre las 11:00 am a 3:00 pm chile
+• _Nombre del template:_ <https://www.twilio.com/console/sms/whatsapp/templates/HT99f4dedbc3c2ff7a4b1ba187cba3a7dc|mensajeexpectativawebinar>
+• _Estado del template:_ Aprobado
+Lista de la Query de los usuarios a los cuales hay que enviarle el template. Esta <https://docs.google.com/spreadsheets/d/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk/edit?usp=sharing|aquí> (editado)",2022-02-16 00:58:58.081609011,2022-02-16 00:58:58.081609011,2022-02-16 16:29:59.695549011,True,True,True,True,False,True,False,15.52
+istuardo,,":dart:_ *Iframe nuevo tensor_:* Arreglar estilos en botones, agregar botón de mute, habilitar texto libre en caso de que no vengan botones",2022-02-16 14:04:01.519489050,2022-02-16 14:04:01.519489050,2022-02-23 14:14:23.417768955,True,True,False,False,True,False,False,168.17
+istuardo,juan,:writing_hand::skin-tone-4: :robot_face: ImproveBot: Visualizar estado del envío del template en vista de Campañas,2022-02-16 14:32:38.290399075,2022-02-16 14:32:38.290399075,2022-02-25 14:11:28.111849070,True,True,True,True,False,True,False,215.65
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*Delivery Gourmet*_: Reservaciones no funcionan correctamente.,2022-02-17 14:18:15.629409075,2022-02-17 14:18:15.629409075,2022-02-23 14:18:22.187519073,True,True,True,False,True,True,True,144.0
+jmansilla,juan,:robot_face: tengo problemas para editar una faq :disappointed:,2022-02-17 20:11:13.709939003,2022-02-17 20:11:13.709939003,2022-02-22 14:05:21.751358986,True,True,True,False,False,True,False,113.9
+istuardo,istuardo,:rotating_light: :dart: _*PY*_: Validar que la actualización cumple con lo que necesita PY + DG + Erika,2022-02-21 13:58:40.193109035,2022-02-21 13:58:40.193109035,2022-02-22 15:33:29.926558971,True,True,True,False,True,False,True,25.58
+david,jmansilla,:writing_hand::skin-tone-4: :robot_face: DG Livechat : agregar origin URL al perfil de las personas en el livechat para saber de qué marca proviene el livechat,2022-02-21 14:17:29.132618904,2022-02-21 14:17:29.132618904,2022-02-25 14:14:07.464889050,True,True,True,True,False,True,False,95.94
+paula,,":writing_hand::skin-tone-3::robot_face: *Pagina CompletaMENTE:* Cambiar el número de contacto de WhatsApp por <tel:+56732520516|+56 73 252 0516>
+• <https://www.completamente.ai/contact>
+",2022-02-21 15:43:54.498589039,2022-02-21 15:43:54.498589039,2022-03-02 15:41:12.300848961,False,False,False,True,False,True,False,215.95
+paula,,":rotating_light::dart: *Live chat:* No me recibe mis credenciales, motivo por el cual no puedo ingresar.
+• _Compañia:_ Completamente
+• _Usuario:_ pcorredor
+• _Contraseña:_ completamente. 2021
+",2022-02-21 16:44:07.415419102,2022-02-21 16:44:07.415419102,2022-02-21 17:14:46.762989044,True,True,True,False,True,False,True,0.51
+istuardo,istuardo,:rotating_light: :dart: :robot_face: _*Delivery Gourmet*_ : Problema de reservas persiste a pesar de la modificación de Iframe,2022-02-23 14:12:49.171628952,2022-02-23 14:12:49.171628952,2022-02-24 18:19:28.645128965,True,True,True,False,True,True,True,28.11
+david,istuardo,":writing_hand::skin-tone-3::robot_face: Integrar el bot de madesal (nuevo) a sirena, envio de leads, envio de solicitudes de contacto.",2022-02-23 14:33:18.951778889,2022-02-23 14:33:18.951778889,2022-02-28 13:42:03.992918968,True,False,False,True,False,True,False,119.15
+vprieto,andresg,:writing_hand::skin-tone-4: :robot_face: Data: Comenzar a medir los usuarios en la página web para medir la tasa de conversión de los Bots,2022-02-23 16:19:03.753379107,2022-02-23 16:19:03.753379107,2022-02-25 14:17:17.308669090,True,False,False,True,False,True,False,45.97
+vprieto,istuardo,:dart: :robot_face: Livechat: Que se puedan enviar archivos a través del Iframe Web (No urgente pero importante de tomar en cuenta),2022-02-23 16:30:31.447238922,2022-02-23 16:30:31.447238922,2022-02-28 14:41:18.195338964,True,True,False,False,True,True,False,118.18
+vprieto,istuardo,":writing_hand::skin-tone-4: :robot_face: Livechat: Aún cuando el livechat ya está activo (Iframe Web), me sigue apareciendo el botón ""Hablar con Agente""",2022-02-23 16:31:45.646378994,2022-02-23 16:31:45.646378994,2022-03-01 17:38:40.955589056,True,True,False,True,False,True,False,145.12
+vprieto,istuardo,":writing_hand::skin-tone-4: :robot_face: Livechat: Aún cuando el usuario ya cierra la página web, en el livechat se mantiene la sesión activa en el Livechat de cliente",2022-02-23 16:34:31.403089046,2022-02-23 16:34:31.403089046,2022-02-28 14:31:28.000138998,True,False,False,True,False,True,False,117.95
+vprieto,,:writing_hand::skin-tone-4: :robot_face: Livechat: Que la entrada de un Livechat se notifique mediante Whatsapp,2022-02-24 13:32:29.309159040,2022-02-24 13:32:29.309159040,2022-03-15 19:29:54.566828966,False,False,False,True,False,True,False,461.96
+david,istuardo,:rotating_light: :dart:  No se muestran los botones para activar el livechat en Ema DG,2022-02-24 16:29:59.193918943,2022-02-24 16:29:59.193918943,2022-02-28 14:03:59.992839098,True,False,True,False,True,False,True,93.57
+istuardo,istuardo,:writing_hand::skin-tone-4: :dart:  NEW-IFRAME: Cambiar JSON to String en URL de MakeChat,2022-02-24 18:59:57.163348913,2022-02-24 18:59:57.163348913,2022-02-28 14:17:26.623498917,True,True,False,True,True,False,False,91.29
+istuardo,istuardo,:writing_hand::skin-tone-4: :dart:  NEW-IFRAME: Revisar Make Chat de <http://app.krino.ai|app.krino.ai>,2022-02-25 14:03:07.573508978,2022-02-25 14:03:07.573508978,2022-02-28 14:17:13.300889015,True,True,False,True,True,False,False,72.23
+paula,,:rotating_light::robot_face: Berta: La FAQ 3817 no esta funcionando. Berta no envía respuesta al usuario.,2022-02-26 16:37:27.774708986,2022-02-26 16:37:27.774708986,2022-03-02 15:40:23.871088982,False,False,False,False,False,True,True,95.05
+paula,,:writing_hand::skin-tone-3::robot_face: *Berta:* las reeactivaciones automáticas se están enviado 2 veces seguidas.,2022-02-28 14:54:33.675268888,2022-02-28 14:54:33.675268888,2022-03-11 14:43:58.300808907,True,True,False,True,False,True,False,263.82
+david,jmansilla,:rotating_light::robot_face::dart:Enviar y/o crear documentacion apis ECR,2022-03-07 14:12:28.780339003,2022-03-07 14:12:28.780339003,2022-03-09 14:41:15.066719055,True,True,False,False,True,True,True,48.48
+paula,nsanhueza,":writing_hand::skin-tone-3::robot_face: Berta template: Enviar el siguiente template masivo a los usuarios de Berta a las 3:00 pm chile
+• _*Nombre del template:*_ <https://www.twilio.com/console/sms/whatsapp/templates/HT2d9666d696f49c2731c81a784b1ccdbc|dia_de_la_mujer>
+• *Estado del template:* aprobado
+Lista de la Query de los usuarios a los cuales hay que enviarle el template. Esta <https://docs.google.com/spreadsheets/d/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk/edit#gid=384583525|aqui>",2022-03-08 13:31:27.884669065,2022-03-08 13:31:27.884669065,2022-03-08 18:20:18.422868967,True,True,True,True,False,True,False,4.81
+paula,andresg,":rotating_light::dart: *Berta - resultados:* 
+
+Los resultados del formulario de Bornout no aparecen con los datos actualizados. Aparecen 29 respuestas _(Ver imagenes de torta)_, aun cuando según el nivel de avance de los usuarios en el flujo indican que 51 _(Ver imagen de funel)_   ya terminaron la semana 0.
+
+*En conclusión deberíamos tener la misma cantidad de respuestas que usuarios terminaron la semana 0.*  ",2022-03-08 19:55:30.238678932,2022-03-08 19:55:30.238678932,2022-03-09 00:21:37.539009094,True,True,False,False,True,False,True,4.44
+vprieto,nsanhueza,":rotating_light: :robot_face:  No aparece en Improvebot el historial de estas conversaciones:
+
+182898, 183497, 185647, 184861, 182622, 183058, 183024, 183026, 187311, 205365, 200268, 212226, 190938, 195128",2022-03-09 22:11:23.237128973,2022-03-09 22:11:23.237128973,2022-03-10 17:52:35.135399103,True,True,True,False,False,True,True,19.69
+omar,,":robot_face: :
+Subir el Bot Kripton a nuestra página web.
+
+<@U02217J5895> Nos podrías ayudar? O lo tenemos que hacer desde elemento",2022-03-10 16:27:52.590328932,2022-03-10 16:27:52.590328932,2022-03-11 15:07:13.061979055,False,True,False,False,False,True,False,22.66
+paula,juan,:writing_hand::skin-tone-3: :robot_face: *Berta:* Poner la hora y fecha de los mensajes enviados de Berta al usuario y del usuario a Berta  en el historial de las conversaciones.,2022-03-10 17:58:23.842509031,2022-03-10 17:58:23.842509031,2022-03-11 15:40:48.837779045,True,True,True,True,False,True,False,21.71
+paula,,:writing_hand::skin-tone-3: :robot_face: *Berta:* Poner el nombre de los usuarios en mayúscula,2022-03-10 17:59:24.205089092,2022-03-10 17:59:24.205089092,2022-03-14 14:28:47.226289034,False,False,False,True,False,True,False,92.49
+paula,,":writing_hand::skin-tone-3::dart: *Berta:* Hacer solicitud en Twilio de cambiar el nombre del número de Berta por:
+• De krino a Berta powered by Krino. ",2022-03-10 18:03:24.173319101,2022-03-10 18:03:24.173319101,2022-03-14 13:52:42.509598970,False,False,False,True,True,False,False,91.82
+david,istuardo,:writing_hand::skin-tone-3::dart: generar faqs fechas licencias medicas y enviar variables en en el JSON (ecr),2022-03-11 14:16:34.526909113,2022-03-11 14:16:34.526909113,2022-03-11 14:43:53.282538891,True,False,False,True,True,False,False,0.46
+david,,:writing_hand::skin-tone-3::dart: Conectar nuevo sistema de autenticación ECR,2022-03-11 14:18:45.546909094,2022-03-11 14:18:45.546909094,2022-03-11 14:45:37.319869041,True,False,False,True,True,False,False,0.45
+paula,,":rotating_light: :robot_face: Estas conversaciones no aparecen en el historial de Krino o de Improvebot: 212218, 182616, 184865, 212064, 185405, 182617, 195117, 186437, 215969, 181968, 181534, 182389, 215982, 186666, 184864, 215972, 212227, 182867, 185588, 215996, 186577, 183715, 218301
+
+Tampoco tienen estado asociado",2022-03-14 14:29:27.900949001,2022-03-14 14:29:27.900949001,2022-03-14 15:54:56.011209011,False,False,True,False,False,True,True,1.42
+omar,,":writing_hand::skin-tone-3: *Kriator/Registro:* 
+Eliminar los espacios de Nombre, Nombre de empresa y Contraseña.",2022-03-14 19:10:57.249309063,2022-03-14 19:10:57.249309063,2022-03-15 17:33:32.097198963,False,False,True,True,False,False,False,22.38
