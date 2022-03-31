@@ -1,0 +1,407 @@
+[
+    {
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3::robot_face: Transpaso Berta a Kriator:\nValidar si es posible que el paso de Berta sea visualmente mucho mas desagrupado o organizado.",
+        "files": [
+            {
+                "id": "F037M8C5ER3",
+                "created": 1647617208,
+                "timestamp": 1647617208,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 199429,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037M8C5ER3\/image.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037M8C5ER3\/download\/image.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_720.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_800.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_960.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037M8C5ER3-d0ebd2c824\/image_1024.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1366,
+                "original_h": 768,
+                "thumb_tiny": "AwAaADC0krOeEB\/TFT4HpVe0+631qf6VUtGTF3Qv4UYHoKTPrS\/SpKDj0FRyPsK4Qtk847U+loAr2g+VuO4qfFYbsw6Ej8aaHbP3j+dNu7uNQsrG9RWLub+8evrRubLfMfzpXCxtZ9aRnUMFOcn2NYQds\/eP504O2D8x\/OmS9D\/\/2Q==",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F037M8C5ER3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F037M8C5ER3-032432512a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1647617311.549719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJiuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Transpaso Berta a Kriator:\nValidar si es posible que el paso de Berta sea visualmente mucho mas desagrupado o organizado."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02TWSY0V3M",
+            "ts": "1647617329.000000"
+        },
+        "client_msg_id": "810c4f71-e31f-4b25-a98c-547e122dc1d7",
+        "thread_ts": "1647617311.549719",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1648139643.304669",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648046239.296859"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648060276.026149"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648139643.304669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-3",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "654cc803-bce2-4c09-9bde-cd5e18443f91",
+        "type": "message",
+        "text": "Owner: <@U02KN0DBT9N>",
+        "user": "U02KN0DBT9N",
+        "ts": "1647621183.609259",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "4f98233aaeb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2763968238548_4f98233aaeb615b02b0d_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Diego Carrero",
+            "display_name": "Juan Diego Carrero",
+            "team": "T022CTR8EER",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rCfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02KN0DBT9N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647440101.941869",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "782885f3-4f6f-4ed9-b57d-cffce91124fd",
+        "type": "message",
+        "text": "Resuelto, Ya está en la página",
+        "user": "U02KN0DBT9N",
+        "ts": "1647621211.379349",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "4f98233aaeb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2763968238548_4f98233aaeb615b02b0d_72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Diego Carrero",
+            "display_name": "Juan Diego Carrero",
+            "team": "T022CTR8EER",
+            "name": "juan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4J+w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resuelto, Ya está en la página"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647440101.941869",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "type": "message",
+        "text": ":rotating_light::robot_face: *Berta:* \n• Se salta la FAQ 6760. El usuario va de la FAQ 4646 a la FAQ 6757. \n• *Notas:*\n```* Se muestra en base de datos que se paso por la FAQ 6760 pero no en la conversación de WSP.\n* En Twilio se ve que se salta. ```",
+        "files": [
+            {
+                "id": "F037MMX1G77",
+                "created": 1647621520,
+                "timestamp": 1647621520,
+                "name": "image (1).png",
+                "title": "image (1).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 119621,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037MMX1G77\/image__1_.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F037MMX1G77\/download\/image__1_.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037MMX1G77-acd729068a\/image__1__64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037MMX1G77-acd729068a\/image__1__80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037MMX1G77-acd729068a\/image__1__360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 233,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037MMX1G77-acd729068a\/image__1__480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 311,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F037MMX1G77-acd729068a\/image__1__160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "original_w": 630,
+                "original_h": 408,
+                "thumb_tiny": "AwAfADDR\/Cjn0NJil5oAXHtRj2pOaOaAEooopALj\/OKOfX9KTAzmlyaYCgH1ox70gPNLmgBtFFFID\/\/Z",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F037MMX1G77\/image__1_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F037MMX1G77-58cc0da9c4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1647621526.465039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Zk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Berta: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Se salta la FAQ 6760. El usuario va de la FAQ 4646 a la FAQ 6757. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Notas:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* Se muestra en base de datos que se paso por la FAQ 6760 pero no en la conversación de WSP.\n* En Twilio se ve que se salta. "
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "97983299-de60-4302-a23d-ed40e53fa477",
+        "thread_ts": "1647621526.465039",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1648492615.541769",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648059951.004589"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648059965.719879"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648139603.300479"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648222358.607179"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648223165.271749"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648492392.672899"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648492542.890359"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648492602.903349"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648492615.541769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hourglass_flowing_sand",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

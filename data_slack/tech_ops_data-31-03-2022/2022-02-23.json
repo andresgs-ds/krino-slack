@@ -1,0 +1,1017 @@
+[
+    {
+        "client_msg_id": "01de2998-f36e-41ed-b94a-067871345761",
+        "type": "message",
+        "text": ":rotating_light: :dart: :robot_face: _*Delivery Gourmet*_ : Problema de reservas persiste a pesar de la modificación de Iframe",
+        "user": "U022N5F6ZGC",
+        "ts": "1645625569.171629",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Delivery Gourmet",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : Problema de reservas persiste a pesar de la modificación de Iframe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645625569.171629",
+        "reply_count": 16,
+        "reply_users_count": 2,
+        "latest_reply": "1645726768.645129",
+        "reply_users": [
+            "U022N5F6ZGC",
+            "U02DBRSBBSM"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645625577.280779"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645625603.029429"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645712214.145569"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726484.667799"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726487.620859"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726492.799009"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726501.800769"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1645726527.631829"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726532.351739"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726550.456989"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726559.921249"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726595.315379"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726610.135919"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1645726611.808249"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645726759.600299"
+            },
+            {
+                "user": "U02DBRSBBSM",
+                "ts": "1645726768.645129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1645726768.645129",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Detalles:",
+        "files": [
+            {
+                "id": "F034ANS6NQK",
+                "created": 1645625573,
+                "timestamp": 1645625573,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U022N5F6ZGC",
+                "editable": false,
+                "size": 309391,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F034ANS6NQK\/image.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F034ANS6NQK\/download\/image.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 163,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 217,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_720.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 326,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_800.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 362,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_960.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 434,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F034ANS6NQK-7331b72b41\/image_1024.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 463,
+                "original_w": 1755,
+                "original_h": 794,
+                "thumb_tiny": "AwAVADCr5sn99v8Avo0CV8\/fY\/8AAjTKKAHmR+u9h\/wI0nmyf89G\/Ok7UlAFiANLnJYkfjUvlPjhSaXTchpG4xjH41oZyD9KBamDQKKB3oGL2pKXtSUAX9OXcjg\/3hV4IBzVLTPuv\/vCtAdKBWP\/2Q==",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U022N5F6ZGC\/F034ANS6NQK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F034ANS6NQK-9ed7fed757",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U022N5F6ZGC",
+        "display_as_bot": false,
+        "ts": "1645625577.280779",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvd6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Detalles:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3998976a-c6d3-41c7-baf1-12d28febcbe5",
+        "thread_ts": "1645625569.171629",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "2bc9f319-a1ca-4995-8562-8a28608d65ff",
+        "type": "message",
+        "text": "Owners: <@U022N5F6ZGC> + <@U02AJP0M7L1>",
+        "user": "U022N5F6ZGC",
+        "ts": "1645625603.029429",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owners: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022N5F6ZGC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " + "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02AJP0M7L1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645625569.171629",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "2c10f4fb-3126-467f-bf78-dc1c3fcfa461",
+        "type": "message",
+        "text": "Update esta semana. Estamos priorizando updates del iframe actual porque estas funciones son copy\/paste entre iframes",
+        "user": "U022N5F6ZGC",
+        "ts": "1645625663.417769",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2POQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update esta semana. Estamos priorizando updates del iframe actual porque estas funciones son copy\/paste entre iframes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645020241.519489",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "25e84559-0b42-451a-85e8-2db4fe496eb6",
+        "type": "message",
+        "text": "Se subió ticket nuevo indicando el problema a detalle",
+        "user": "U022N5F6ZGC",
+        "ts": "1645625902.187519",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se subió ticket nuevo indicando el problema a detalle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645107495.629409",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "1ded2419-25a8-4f32-ac8c-553e5c3dd9e2",
+        "type": "message",
+        "text": "la api de listar lead ya devuelve el estado del mensaje si es que este lo envió",
+        "user": "U02AJP0M7L1",
+        "ts": "1645625944.123369",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3M3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la api de listar lead ya devuelve el estado del mensaje si es que este lo envió"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645021958.290399",
+        "parent_user_id": "U022N5F6ZGC"
+    },
+    {
+        "client_msg_id": "3352c109-d790-4618-84c2-af992202eb30",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3::robot_face: Integrar el bot de madesal (nuevo) a sirena, envio de leads, envio de solicitudes de contacto.",
+        "user": "U02DBRSBBSM",
+        "ts": "1645626798.951779",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VR54C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Integrar el bot de madesal (nuevo) a sirena, envio de leads, envio de solicitudes de contacto."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645626798.951779",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1646055723.992919",
+        "reply_users": [
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798612.398649"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798619.104599"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646055723.992919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646055723.992919",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "297e684a-038a-4954-b79f-f992e0448cc3",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-4: :robot_face: Data: Comenzar a medir los usuarios en la página web para medir la tasa de conversión de los Bots",
+        "user": "U022UJXDF6V",
+        "ts": "1645633143.753379",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Data: Comenzar a medir los usuarios en la página web para medir la tasa de conversión de los Bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633143.753379",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645798637.308669",
+        "reply_users": [
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798637.308669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1645798637.308669",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02G57HLWHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "543fc194-0233-4eb6-a0cc-de2342a9e120",
+        "type": "message",
+        "text": ":dart: :robot_face: Livechat: Que se puedan enviar archivos a través del Iframe Web (No urgente pero importante de tomar en cuenta)",
+        "user": "U022UJXDF6V",
+        "ts": "1645633831.447239",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022UJXDF6V",
+            "ts": "1645644371.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7TC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Livechat: Que se puedan enviar archivos a través del Iframe Web (No urgente pero importante de tomar en cuenta)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633831.447239",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1646059278.195339",
+        "reply_users": [
+            "U022N5F6ZGC",
+            "U022UJXDF6V"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645633896.803709"
+            },
+            {
+                "user": "U022UJXDF6V",
+                "ts": "1645634718.628299"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645635610.784819"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645715598.118919"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798671.357129"
+            },
+            {
+                "user": "U022UJXDF6V",
+                "ts": "1646059278.195339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646059278.195339",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "479c41f5-0e5d-4da4-b3b9-8bd2c7cc23a2",
+        "type": "message",
+        "text": "Updates de Iframe son :dart: please",
+        "user": "U022N5F6ZGC",
+        "ts": "1645633896.803709",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4P+LQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Updates de Iframe son "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633831.447239",
+        "parent_user_id": "U022UJXDF6V"
+    },
+    {
+        "client_msg_id": "fee4c3f9-b6a1-4fd2-854d-e005c863302e",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-4: :robot_face: Livechat: Aún cuando el livechat ya está activo (Iframe Web), me sigue apareciendo el botón \"Hablar con Agente\"",
+        "user": "U022UJXDF6V",
+        "ts": "1645633905.646379",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2MH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Livechat: Aún cuando el livechat ya está activo (Iframe Web), me sigue apareciendo el botón \"Hablar con Agente\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633905.646379",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1646156320.955589",
+        "reply_users": [
+            "U022N5F6ZGC",
+            "U022UJXDF6V"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645715591.812579"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798773.952899"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1645798796.106939"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646055642.254259"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646055655.042559"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646055677.606699"
+            },
+            {
+                "user": "U022UJXDF6V",
+                "ts": "1646156320.955589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646156320.955589",
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07e0d6ae-94d5-44ac-a70f-9ad4aad7457e",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-4: :robot_face: Livechat: Aún cuando el usuario ya cierra la página web, en el livechat se mantiene la sesión activa en el Livechat de cliente",
+        "user": "U022UJXDF6V",
+        "ts": "1645634071.403089",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5w6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Livechat: Aún cuando el usuario ya cierra la página web, en el livechat se mantiene la sesión activa en el Livechat de cliente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645634071.403089",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1646058688.000139",
+        "reply_users": [
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646057945.301329"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1646058688.000139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646058688.000139",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a9f3830-f368-404e-8935-94f401ea408c",
+        "type": "message",
+        "text": "Sorry, lo vuelvo a subir?",
+        "user": "U022UJXDF6V",
+        "ts": "1645634718.628299",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1A7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, lo vuelvo a subir?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633831.447239",
+        "parent_user_id": "U022UJXDF6V"
+    },
+    {
+        "client_msg_id": "13861551-dfbb-4f9b-8372-4ad62cd8bbba",
+        "type": "message",
+        "text": "No, se puede editar",
+        "user": "U022N5F6ZGC",
+        "ts": "1645635610.784819",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022N5F6ZGC",
+            "ts": "1645635617.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, se puede editar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645633831.447239",
+        "parent_user_id": "U022UJXDF6V",
+        "reactions": [
+            {
+                "name": "dart",
+                "users": [
+                    "U022UJXDF6V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

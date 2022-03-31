@@ -1,0 +1,292 @@
+[
+    {
+        "client_msg_id": "9f2180d3-33df-41f1-a2ee-040ac3e89d75",
+        "type": "message",
+        "text": ":rotating_light::robot_face: *Crones de reactivación Berta:* \nLos crones no funcionaron para los siguientes usuarios:\n183058, 212220, 212212, 200269, 200268, 201227, 212214, 185413, 192144, 212209, 212242, 212216, 206825, 212211, 183049, 212228, 182865, 181956, 212215, 183030, 182967, 182869, 182883, 182914, 183255, 183212, 185507, 183073, 183388, 183068, 183126, 183159, 183240, 183244, 183476, 184121, 185417, 185496, 215995, 185648, 212221, 212213, 183238, 200911, 212226, 212235, 212217, 182910, 183024, 183026, 182868, 182882, 205365, 183071, 183023.\n\nEstos usuarios ya quedaron activados manualmente. Sin embargo levanto el ticket para que podamos analizar los motivos de esta falla.",
+        "user": "U02TWSY0V3M",
+        "ts": "1647547678.044509",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=0mMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Crones de reactivación Berta: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLos crones no funcionaron para los siguientes usuarios:\n183058, 212220, 212212, 200269, 200268, 201227, 212214, 185413, 192144, 212209, 212242, 212216, 206825, 212211, 183049, 212228, 182865, 181956, 212215, 183030, 182967, 182869, 182883, 182914, 183255, 183212, 185507, 183073, 183388, 183068, 183126, 183159, 183240, 183244, 183476, 184121, 185417, 185496, 215995, 185648, 212221, 212213, 183238, 200911, 212226, 212235, 212217, 182910, 183024, 183026, 182868, 182882, 205365, 183071, 183023.\n\nEstos usuarios ya quedaron activados manualmente. Sin embargo levanto el ticket para que podamos analizar los motivos de esta falla."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647547678.044509",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1648132972.290819",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M",
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648046009.255529"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648046686.847039"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1648132800.933729"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648132972.290819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51a545ef-9307-4e79-83f6-9fe1246c1077",
+        "type": "message",
+        "text": ":rotating_light::robot_face: *Historial de Conversaciones Berta:*\n No aparece el historial de 190938 y 212218",
+        "user": "U02TWSY0V3M",
+        "ts": "1647547946.418709",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQehm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Historial de Conversaciones Berta:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n No aparece el historial de 190938 y 212218"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647547946.418709",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1648492558.751969",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648047027.991369"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648047065.900849"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648047163.786099"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648492288.364129"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648492558.751969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dd603cc-4a79-48c7-966b-38fd3bb2d8c5",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-4: :robot_face: *Historial de Conversaciones Berta:* \nValidar que el historial de conversación de estos usuarios este completo: 185507, 215995, 185648, 212221, 212213, 183238",
+        "user": "U02TWSY0V3M",
+        "ts": "1647548060.912479",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qpYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Historial de Conversaciones Berta: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nValidar que el historial de conversación de estos usuarios este completo: 185507, 215995, 185648, 212221, 212213, 183238"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647548060.912479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648492700.048889",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1648492254.421859"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648492700.048889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

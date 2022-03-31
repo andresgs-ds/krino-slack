@@ -1,0 +1,210 @@
+[
+    {
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3: :robot_face: *Template Berta:* Enviar el siguiente template masivo a los usuarios de Berta el 31 de marzo a las 3:00 pm chile\n• _*Nombre del template:*_ <https:\/\/www.twilio.com\/console\/sms\/whatsapp\/templates\/HT84233d470ef364f8272b08f40feed568|mensaje_felicitaciones_sii_group>\n• *Estado del template:* Aprobado\nLista de la Query de los usuarios a los cuales hay que enviarle el template. Esta <https:\/\/docs.google.com\/spreadsheets\/d\/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk\/edit#gid=384583525|aqui>",
+        "files": [
+            {
+                "id": "F02UFF9TLDV",
+                "created": 1642694055,
+                "timestamp": 1642694055,
+                "name": "Lista de usuarios para enviar mensaje de navidad - query_result_2021-12-23T14_04_48.219265Z",
+                "title": "Lista de usuarios para enviar mensaje de navidad - query_result_2021-12-23T14_04_48.219265Z",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 0,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk\/edit#gid=384583525",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_720.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_800.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_960.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F02UFF9TLDV-2bc1817318\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48_1024.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "thumb_tiny": "AwAwACHSY4FIHyelD9Pxpi\/eFAEtFFFABRRRQA1+lMX7wp79KYv3hQBLRRRQAUUUUANfpTF+8KkYZFNCYPWgB9FFFABRRRQB\/9k=",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F02UFF9TLDV\/lista_de_usuarios_para_enviar_mensaje_de_navidad_-_query_result_2021-12-23t14_04_48",
+                "is_starred": false,
+                "external_id": "1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk\/edit#gid=384583525",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "x_files": [
+            "F02UFF9TLDV"
+        ],
+        "ts": "1648641276.461559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3b\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Template Berta:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Enviar el siguiente template masivo a los usuarios de Berta el 31 de marzo a las 3:00 pm chile\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nombre del template: ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.twilio.com\/console\/sms\/whatsapp\/templates\/HT84233d470ef364f8272b08f40feed568",
+                                        "text": "mensaje_felicitaciones_sii_group"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Estado del template:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Aprobado"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nLista de la Query de los usuarios a los cuales hay que enviarle el template. Esta "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1GcPb8MtcVvczV4sw6Kh9stW7n_KIxWwRlNtfdkiVhbk\/edit#gid=384583525",
+                                "text": "aqui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "195d2f5e-65ca-4bd0-a301-cd5150be78c2"
+    },
+    {
+        "client_msg_id": "72d4f9c3-60e0-41aa-afda-2c1abd584b98",
+        "type": "message",
+        "text": "Please <@U02DBRSBBSM> si tenemos un tema de parte de Madesal o Sirena oficialicemos por correo para poderte apoyar a darle salida a eso",
+        "user": "U022UJXDF6V",
+        "ts": "1648653432.491729",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sz6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " si tenemos un tema de parte de Madesal o Sirena oficialicemos por correo para poderte apoyar a darle salida a eso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648567963.548429",
+        "parent_user_id": "U02DBRSBBSM"
+    }
+]

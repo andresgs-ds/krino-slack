@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "389caabb-75c4-43de-bcf0-671761bb3b29",
+        "type": "message",
+        "text": ":rotating_light::robot_face::dart:Enviar y\/o crear documentacion apis ECR",
+        "user": "U02DBRSBBSM",
+        "ts": "1646662348.780339",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xogv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Enviar y\/o crear documentacion apis ECR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646662348.780339",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1646836875.066719",
+        "reply_users": [
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1646682837.484459"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1646682843.290579"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1646775223.905279"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1646775232.119389"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1646775260.604819"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1646836875.066719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646836875.066719",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f50bebe-830f-494d-82d3-54196a71c908",
+        "type": "message",
+        "text": "Trabajando para que salga esta tarde",
+        "user": "U02217J5895",
+        "ts": "1646682837.484459",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xJtz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trabajando para que salga esta tarde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646662348.780339",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "c440cb20-e11c-4c65-9844-fd2b36514903",
+        "type": "message",
+        "text": "owner <@U02217J5895>",
+        "user": "U02217J5895",
+        "ts": "1646682843.290579",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "owner "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646662348.780339",
+        "parent_user_id": "U02DBRSBBSM"
+    }
+]

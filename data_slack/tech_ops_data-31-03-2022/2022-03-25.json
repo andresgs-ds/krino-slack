@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "350be7e6-b27c-48bd-9eff-7f3ba425eb1e",
+        "type": "message",
+        "text": "Hola Pau, lo consideramos para la migración para el nuevo motor, pero ya no vamos a modificar el antiguo",
+        "user": "U02217J5895",
+        "ts": "1648222243.183189",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Pau, lo consideramos para la migración para el nuevo motor, pero ya no vamos a modificar el antiguo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648139860.793799",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "889573e5-f7d8-487a-826b-5aea3c9ce9f6",
+        "type": "message",
+        "text": "Hola Pau se esta corriendo en un estado del nuevo motor, por lo mismo daremos prioridad a la migración",
+        "user": "U02217J5895",
+        "ts": "1648222278.311719",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2aff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Pau se esta corriendo en un estado del nuevo motor, por lo mismo daremos prioridad a la migración"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648143838.582419",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "fa945379-23d1-43fc-8eab-0655a8c9b6d1",
+        "type": "message",
+        "text": "Perfecto.\n\nQuedo pendiente  cuando quede listo.",
+        "user": "U02TWSY0V3M",
+        "ts": "1648222304.599839",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nc3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfecto.\n\nQuedo pendiente  cuando quede listo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648143838.582419",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "68cbfd16-8dd3-447d-b2c3-f298ed05f6ff",
+        "type": "message",
+        "text": "oka, me puedes dar el chat que esta saltándose la faq",
+        "user": "U02AJP0M7L1",
+        "ts": "1648222358.607179",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oka, me puedes dar el chat que esta saltándose la faq"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647621526.465039",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "96ed10cb-bf56-493f-a806-eb4603bd67d1",
+        "type": "message",
+        "text": "Got it!",
+        "user": "U02TWSY0V3M",
+        "ts": "1648222415.851039",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648139860.793799",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "15fc2d21-522c-4027-bbab-e60a7f92cdf2",
+        "type": "message",
+        "text": "Claro!\n190939",
+        "user": "U02TWSY0V3M",
+        "ts": "1648223165.271749",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claro!\n190939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647621526.465039",
+        "parent_user_id": "U02TWSY0V3M"
+    }
+]

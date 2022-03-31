@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "f4d51f78-e62e-46e1-bee1-930fe47ab7af",
+        "type": "message",
+        "text": "hola paula, esto se arreglara con el paso al nuevo motor",
+        "user": "U02AJP0M7L1",
+        "ts": "1648736864.263669",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwZN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola paula, esto se arreglara con el paso al nuevo motor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648584509.087379",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "42d65d75-d8c0-4bee-a274-5d57746880d3",
+        "type": "message",
+        "text": "como se esta pasando todo a la nueva logica se muestra los mensajes que encuentra en la tabla nueva",
+        "user": "U02AJP0M7L1",
+        "ts": "1648736893.677219",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "049a68775a00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758821101221_049a68775a005a2e59d9_72.png",
+            "first_name": "Natanael",
+            "real_name": "Natanael Sanhueza",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "nsanhueza",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v6\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "como se esta pasando todo a la nueva logica se muestra los mensajes que encuentra en la tabla nueva"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648584509.087379",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "b196e7a6-f6f3-4c3e-94a9-ea5480ef518d",
+        "type": "message",
+        "text": "Hola Nat!\nPerfecto.\n\nGracias por la información. Quedo pendiente de cuándo el traspaso este completo.",
+        "user": "U02TWSY0V3M",
+        "ts": "1648737298.688939",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola Nat!\nPerfecto.\n\nGracias por la información. Quedo pendiente de cuándo el traspaso este completo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648584509.087379",
+        "parent_user_id": "U02TWSY0V3M"
+    }
+]

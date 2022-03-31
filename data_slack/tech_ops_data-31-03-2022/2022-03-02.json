@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "387d45e1-32e8-40a9-a074-0dfa60ff55d3",
+        "type": "message",
+        "text": "<@U02217J5895>",
+        "user": "U02TWSY0V3M",
+        "ts": "1646235616.692549",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jODK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645893447.774709",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "5e5a5beb-04cf-4550-a6d0-8f4f17778864",
+        "type": "message",
+        "text": "Cómo vamos con esto?",
+        "user": "U02TWSY0V3M",
+        "ts": "1646235623.871089",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAVw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cómo vamos con esto?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645893447.774709",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "29570d89-1d40-4e45-9405-6c5e98912209",
+        "type": "message",
+        "text": "<@U02217J5895> cómo vamos con esto?",
+        "user": "U02TWSY0V3M",
+        "ts": "1646235638.487899",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0R8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cómo vamos con esto?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646060073.675269",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "ec279b58-6895-4b52-b4b7-5d7897436777",
+        "type": "message",
+        "text": "<@U02217J5895> Alguna novedad? Nada que se ve el cambio",
+        "user": "U02TWSY0V3M",
+        "ts": "1646235672.300849",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Alguna novedad? Nada que se ve el cambio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645458234.498589",
+        "parent_user_id": "U02TWSY0V3M"
+    }
+]

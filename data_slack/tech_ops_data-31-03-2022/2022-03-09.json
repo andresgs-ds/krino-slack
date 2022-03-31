@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "bc2f07e3-1a6d-4593-bab0-fdb3ce1db7ab",
+        "type": "message",
+        "text": "ersuelto",
+        "user": "U02217J5895",
+        "ts": "1646836875.066719",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ersuelto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646662348.780339",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "dee92072-cc47-473c-8d29-f9a228d8cbb2",
+        "type": "message",
+        "text": ":rotating_light: :robot_face:  No aparece en Improvebot el historial de estas conversaciones:\n\n182898, 183497, 185647, 184861, 182622, 183058, 183024, 183026, 187311, 205365, 200268, 212226, 190938, 195128",
+        "user": "U022UJXDF6V",
+        "ts": "1646863883.237129",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "c6e8329f06f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747132384487_c6e8329f06f7c488d492_72.png",
+            "first_name": "Víctor",
+            "real_name": "Víctor Hugo Prieto",
+            "display_name": "Víctor Hugo",
+            "team": "T022CTR8EER",
+            "name": "vprieto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U022UJXDF6V",
+            "ts": "1647283214.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  No aparece en Improvebot el historial de estas conversaciones:\n\n182898, 183497, 185647, 184861, 182622, 183058, 183024, 183026, 187311, 205365, 200268, 212226, 190938, 195128"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646863883.237129",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1646934755.135399",
+        "reply_users": [
+            "U02AJP0M7L1",
+            "U022UJXDF6V",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1646925270.691169"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1646925311.644449"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1646925327.719889"
+            },
+            {
+                "user": "U022UJXDF6V",
+                "ts": "1646930052.084979"
+            },
+            {
+                "user": "U02AJP0M7L1",
+                "ts": "1646930540.659189"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1646934755.135399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02TWSY0V3M",
+                    "U022UJXDF6V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AJP0M7L1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

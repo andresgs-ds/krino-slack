@@ -1,0 +1,948 @@
+[
+    {
+        "client_msg_id": "7663b3bc-f571-4495-8c03-d019ace84a62",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-4: :dart:: Revisar documentación y probar apis delivery gourmet para la integracíon del carrito de compras",
+        "user": "U02DBRSBBSM",
+        "ts": "1648128985.036739",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiRcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 4
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": Revisar documentación y probar apis delivery gourmet para la integracíon del carrito de compras"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648128985.036739",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1648131908.989229",
+        "reply_users": [
+            "U022N5F6ZGC"
+        ],
+        "replies": [
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1648130531.148909"
+            },
+            {
+                "user": "U022N5F6ZGC",
+                "ts": "1648131908.989229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648131908.989229",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U022N5F6ZGC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7552b157-b73e-435c-a126-9f95fa8d597d",
+        "type": "message",
+        "text": "Acabo de ver el correo. Esto lo debemos hacer en el bot del nuevo motor.",
+        "user": "U022N5F6ZGC",
+        "ts": "1648130531.148909",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKYjO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Acabo de ver el correo. Esto lo debemos hacer en el bot del nuevo motor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648128985.036739",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "5ac417ad-80af-446b-8221-28c131e17273",
+        "type": "message",
+        "text": "Owner:  <@U022N5F6ZGC>",
+        "user": "U022N5F6ZGC",
+        "ts": "1648131908.989229",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7isD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner:  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022N5F6ZGC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648128985.036739",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "dc64e435-5c02-4657-a468-731eb9f0166b",
+        "type": "message",
+        "text": "<@U02DBRSBBSM> Podemos validar que esto esté listo please?",
+        "user": "U022N5F6ZGC",
+        "ts": "1648132768.980039",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1UY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DBRSBBSM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Podemos validar que esto esté listo please?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647008194.526909",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "8db33cc0-1d19-41e8-b05a-6eb66bbdbc5e",
+        "type": "message",
+        "text": "Si quieres hacemos el bypass para que llegues a esa FAQ",
+        "user": "U022N5F6ZGC",
+        "ts": "1648132778.948739",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si quieres hacemos el bypass para que llegues a esa FAQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647008194.526909",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "86d26201-1492-4856-a357-7538b3a9e7e7",
+        "type": "message",
+        "text": "Owner: <@U022N5F6ZGC>",
+        "user": "U022N5F6ZGC",
+        "ts": "1648132795.704029",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "617214b9846b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-01\/3052776938961_617214b9846be056a720_72.png",
+            "first_name": "Ian",
+            "real_name": "Ian Stuardo",
+            "display_name": "Ian Stuardo",
+            "team": "T022CTR8EER",
+            "name": "istuardo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "keB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Owner: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U022N5F6ZGC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647008325.546909",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "ea23a18e-9a8d-400a-a20b-1b9ce357ac6c",
+        "type": "message",
+        "text": "hay algún patrón de cantidad de días transcurridos de los que no se activaron?",
+        "user": "U02217J5895",
+        "ts": "1648132800.933729",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyNTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay algún patrón de cantidad de días transcurridos de los que no se activaron?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647547678.044509",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "34c0c507-fe96-42be-8a5c-a1d9dba5c98f",
+        "type": "message",
+        "text": "7 días desde que se tuvo la ultima activación.",
+        "user": "U02TWSY0V3M",
+        "ts": "1648132972.290819",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7 días desde que se tuvo la ultima activación."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647547678.044509",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "63a80de1-6f78-49cf-96be-f5c8f941502f",
+        "type": "message",
+        "text": "Claro. Ese día hicimos pruebas y Berta se salto esa FAQ en la conversación con nosotros.",
+        "user": "U02TWSY0V3M",
+        "ts": "1648139603.300479",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mhs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Claro. Ese día hicimos pruebas y Berta se salto esa FAQ en la conversación con nosotros."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647621526.465039",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "client_msg_id": "4a9bb0f9-6feb-4ae3-9fc6-acd510974d66",
+        "type": "message",
+        "text": "*Update:* Esto se manejara directamente con el area de CPA de CompletaMENTE y <@U02217J5895>",
+        "user": "U02TWSY0V3M",
+        "ts": "1648139643.304669",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "6fd57146bc20",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-07\/3227958365344_6fd57146bc20cca6384e_72.jpg",
+            "first_name": "Paula",
+            "real_name": "Paula Camila Corredor",
+            "display_name": "Paula Camila Corredor",
+            "team": "T022CTR8EER",
+            "name": "paula",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wE9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Esto se manejara directamente con el area de CPA de CompletaMENTE y "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647617311.549719",
+        "parent_user_id": "U02TWSY0V3M"
+    },
+    {
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3::robot_face: *Berta:* \nAjustar el cron de reactivación para que en caso de que el usuario se quede en la penúltima FAQ antes del terminar el flujo o en la última, a la hora de realizar la reactivación, Berta lo active en la FAQ siguiente, no en la anterior.\n\nPara que no sucede lo que le sucedió a este usuario",
+        "files": [
+            {
+                "id": "F038JMJC41H",
+                "created": 1648139830,
+                "timestamp": 1648139830,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 944979,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F038JMJC41H\/image_from_ios.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F038JMJC41H\/download\/image_from_ios.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_720.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_800.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_960.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038JMJC41H-e64cd3254d\/image_from_ios_1024.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbQyc8UuaTv2\/Ol\/wC+fzoAMijNIetFACfN6\/rTh7n9aacZ5pRk9BQAHrRQevNFABk+ppRj1NGPfFJlT0YUAB60UYpcUAf\/2Q==",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F038JMJC41H\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F038JMJC41H-214907e6c7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1648139860.793799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pqtFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "robot_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Berta: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAjustar el cron de reactivación para que en caso de que el usuario se quede en la penúltima FAQ antes del terminar el flujo o en la última, a la hora de realizar la reactivación, Berta lo active en la FAQ siguiente, no en la anterior.\n\nPara que no sucede lo que le sucedió a este usuario"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "df4e9acb-d3c6-4980-a1b8-0724f317e1f2",
+        "thread_ts": "1648139860.793799",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648222415.851039",
+        "reply_users": [
+            "U02217J5895",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1648222243.183189"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648222415.851039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hourglass",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":rotating_light: :dart: *Base de datos Berta:*\nEl mensaje correspondiente a la FAQ 3055 que es _\"Gracias por dejarte conocerte un poquito más\"_ esta siendo tomado por la FAQ anterior 3382\"\n\nPorfa hacer el ajuste para el mensaje sea tomado en la FAQ 3055.\n\n\nGracias!",
+        "files": [
+            {
+                "id": "F038K5AH1K5",
+                "created": 1648143797,
+                "timestamp": 1648143797,
+                "name": "image (2).png",
+                "title": "image (2).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02TWSY0V3M",
+                "editable": false,
+                "size": 61960,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F038K5AH1K5\/image__2_.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T022CTR8EER-F038K5AH1K5\/download\/image__2_.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__64.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__80.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__360.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_360_w": 360,
+                "thumb_360_h": 134,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__480.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_480_w": 480,
+                "thumb_480_h": 179,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__160.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__720.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_720_w": 720,
+                "thumb_720_h": 268,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__800.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_800_w": 800,
+                "thumb_800_h": 298,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__960.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_960_w": 960,
+                "thumb_960_h": 357,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T022CTR8EER-F038K5AH1K5-b91e844740\/image__2__1024.png?t=xoxe-2080943286501-3337178446737-3321683777461-5c1bde1d9b607ccea243d00425c1c76b",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 381,
+                "original_w": 1172,
+                "original_h": 436,
+                "thumb_tiny": "AwARADDS\/wAaQ9aX\/GjPtQAZ96X8qTPtS0AH5Ud6KO9ADe\/40o+8aTv+NKPvGgBaKKKACjvRR3oA\/9k=",
+                "permalink": "https:\/\/krinogrupo.slack.com\/files\/U02TWSY0V3M\/F038K5AH1K5\/image__2_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T022CTR8EER-F038K5AH1K5-83b6d59433",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02TWSY0V3M",
+        "display_as_bot": false,
+        "ts": "1648143838.582419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vaCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Base de datos Berta:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEl mensaje correspondiente a la FAQ 3055 que es "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Gracias por dejarte conocerte un poquito más\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " esta siendo tomado por la FAQ anterior 3382\"\n\nPorfa hacer el ajuste para el mensaje sea tomado en la FAQ 3055.\n\n\nGracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "49f6fef6-f907-4bb6-b72d-81b752adfc06",
+        "thread_ts": "1648143838.582419",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1648222304.599839",
+        "reply_users": [
+            "U02217J5895",
+            "U02TWSY0V3M"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1648222278.311719"
+            },
+            {
+                "user": "U02TWSY0V3M",
+                "ts": "1648222304.599839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "hourglass",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3cc9237-85ca-4b66-b438-a7392b5e7391",
+        "type": "message",
+        "text": ":rotating_light: :dart:  Se volvió a caer Metabase",
+        "user": "U02G57HLWHK",
+        "ts": "1648146906.137219",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "3fd77fbd4153",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2758776929269_3fd77fbd41532bfc6902_72.png",
+            "first_name": "Andrés",
+            "real_name": "Andrés Guiñazu",
+            "display_name": "Andrés Guiñazú",
+            "team": "T022CTR8EER",
+            "name": "andresg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02G57HLWHK",
+            "ts": "1648146987.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1r7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Se volvió a caer Metabase"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648146906.137219",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1648169112.277749",
+        "reply_users": [
+            "U02217J5895"
+        ],
+        "replies": [
+            {
+                "user": "U02217J5895",
+                "ts": "1648169081.740209"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1648169085.049609"
+            },
+            {
+                "user": "U02217J5895",
+                "ts": "1648169112.277749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02G57HLWHK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b096c585-d837-4c42-8142-68f1a7f6aee8",
+        "type": "message",
+        "text": "Resuelto",
+        "user": "U02217J5895",
+        "ts": "1648169081.740209",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ePlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Resuelto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648146906.137219",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "b22f92f4-5c97-457b-a0de-2d28856272f7",
+        "type": "message",
+        "text": "<@U02217J5895>",
+        "user": "U02217J5895",
+        "ts": "1648169085.049609",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hzr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02217J5895"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648146906.137219",
+        "parent_user_id": "U02G57HLWHK"
+    },
+    {
+        "client_msg_id": "bf1ed11e-783a-49eb-9fa8-857344eec3cd",
+        "type": "message",
+        "text": "No estában quedando sin memoria, borre un par de containers que estaban apagados.",
+        "user": "U02217J5895",
+        "ts": "1648169112.277749",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "96eeb2ae8071",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2747062034647_96eeb2ae8071d4a27bef_72.png",
+            "first_name": "",
+            "real_name": "jmansilla",
+            "display_name": "",
+            "team": "T022CTR8EER",
+            "name": "jmansilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UAR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No estában quedando sin memoria, borre un par de containers que estaban apagados."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648146906.137219",
+        "parent_user_id": "U02G57HLWHK"
+    }
+]

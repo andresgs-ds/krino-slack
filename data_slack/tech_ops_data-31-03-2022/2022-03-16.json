@@ -1,0 +1,335 @@
+[
+    {
+        "client_msg_id": "64166ae5-0519-4e70-9fb9-0928003413dc",
+        "type": "message",
+        "text": ":writing_hand::skin-tone-3::dart: Agregar Bot de bienvenida a la pagina de bienvenida de WeBot <https:\/\/krino.ai\/bienvenido\/> bot id 508",
+        "user": "U02DBRSBBSM",
+        "ts": "1647440101.941869",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8aS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "writing_hand",
+                                "skin_tone": 3
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Agregar Bot de bienvenida a la pagina de bienvenida de WeBot "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/krino.ai\/bienvenido\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " bot id 508"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647440101.941869",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1647621211.379349",
+        "reply_users": [
+            "U02KN0DBT9N"
+        ],
+        "replies": [
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1647621183.609259"
+            },
+            {
+                "user": "U02KN0DBT9N",
+                "ts": "1647621211.379349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02KN0DBT9N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02DBRSBBSM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d44da50e-065a-4a3d-9238-e1c3caf9eba5",
+        "type": "message",
+        "text": ":dart: Llegan alertas de Livechat al mail, pero no hay Chats en espera ni está en los Chats asignados (con fecha de hoy).",
+        "user": "U02DQBYBFNG",
+        "ts": "1647461362.165009",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "2d2130fb9242",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2785308857424_2d2130fb9242571eabae_72.png",
+            "first_name": "Aidnes",
+            "real_name": "Aidnes Sanchez",
+            "display_name": "Aidnes Sánchez",
+            "team": "T022CTR8EER",
+            "name": "aidnes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "dart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Llegan alertas de Livechat al mail, pero no hay Chats en espera ni está en los Chats asignados (con fecha de hoy)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02DQBYBFNG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "559cdbd9-5e54-4723-8e21-dc166c06a137",
+        "type": "message",
+        "text": "Depronto los tomo alguien más",
+        "user": "U02DBRSBBSM",
+        "ts": "1647463938.465259",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depronto los tomo alguien más"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647463938.465259",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1647464389.202619",
+        "reply_users": [
+            "U030XTM7MMY",
+            "U02DQBYBFNG"
+        ],
+        "replies": [
+            {
+                "user": "U030XTM7MMY",
+                "ts": "1647464004.950029"
+            },
+            {
+                "user": "U02DQBYBFNG",
+                "ts": "1647464389.202619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02217J5895"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2585a02-ac4b-4a15-a80e-ec2b41dac5b9",
+        "type": "message",
+        "text": "?",
+        "user": "U02DBRSBBSM",
+        "ts": "1647463939.989959",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "a3de03506bd1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-13\/2936826266583_a3de03506bd181dc2d24_72.png",
+            "first_name": "David",
+            "real_name": "David Badillo",
+            "display_name": "David Badillo",
+            "team": "T022CTR8EER",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1444b9c-a786-4b41-990c-e08f85c7d5ee",
+        "type": "message",
+        "text": "Si, los tomé yo eran unas pruebas",
+        "user": "U030XTM7MMY",
+        "ts": "1647464004.950029",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "5181d8b813f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-04\/3071095858289_5181d8b813f5770393cb_72.png",
+            "first_name": "Sofia",
+            "real_name": "Sofia Antonella Pinzón",
+            "display_name": "Sofia Antonella Pinzón",
+            "team": "T022CTR8EER",
+            "name": "sofiap",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, los tomé yo eran unas pruebas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647463938.465259",
+        "parent_user_id": "U02DBRSBBSM"
+    },
+    {
+        "client_msg_id": "fadc7ab0-0f81-440d-a9cd-5ba64c553eda",
+        "type": "message",
+        "text": "Ah, listo",
+        "user": "U02DQBYBFNG",
+        "ts": "1647464389.202619",
+        "team": "T022CTR8EER",
+        "user_team": "T022CTR8EER",
+        "source_team": "T022CTR8EER",
+        "user_profile": {
+            "avatar_hash": "2d2130fb9242",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-23\/2785308857424_2d2130fb9242571eabae_72.png",
+            "first_name": "Aidnes",
+            "real_name": "Aidnes Sanchez",
+            "display_name": "Aidnes Sánchez",
+            "team": "T022CTR8EER",
+            "name": "aidnes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l\/ar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, listo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647463938.465259",
+        "parent_user_id": "U02DBRSBBSM"
+    }
+]
